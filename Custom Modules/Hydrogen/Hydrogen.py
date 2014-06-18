@@ -1,5 +1,5 @@
 #
-# Hydrogen is a lightweight GUI framework for Pythonista
+# Hydrogen is a lightweight GUI framework for Pythonista by BashedCrab.
 #
 # Hydrogen        - https://gist.github.com/BashedCrab/5924965
 #
