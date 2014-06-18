@@ -1,4 +1,4 @@
-Pythonista-Projects
+Pythonista Projects
 ===================
 
-Gathering together all the projects/scripts specially developed for Pythonista.
+Our goal is to become a one stop shop for looking for [Pythonista](http://omz-software.com/pythonista/). scripts. No more scouring through GitHub and Gist to find scripts, they're all here.
