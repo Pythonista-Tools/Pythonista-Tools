@@ -1,3 +1,9 @@
+# Add the script to your action menu, 
+# when you are in another script, select the text that you want to indent.
+# Then start the indentation-tool and you'll get a pop up where you will 
+# write how many indentations you want to add. 
+# You can also remove indentations from lines by writing negative integers.
+
 import editor, console
 
 script = editor.get_text()
