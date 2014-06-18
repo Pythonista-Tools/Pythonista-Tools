@@ -2,8 +2,8 @@ Tools and scripts that facilitate the downloading and importing of Python module
 
 GitHub Repos
 ------------
-* [Shellista][1]
-* [ShellistaExt][2]
+* [Shellista][2]
+* [ShellistaExt][3]
 
 
 GitHub Gists
