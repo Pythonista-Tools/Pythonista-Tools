@@ -5,6 +5,4 @@ GitHub Repos
 GitHub Gists
 ------------
 
-[Hydrogen] [2]
-
 [1]: https://github.com/transistor1/shellista
