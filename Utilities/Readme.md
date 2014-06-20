@@ -3,7 +3,6 @@ GitHub Repos
 * [Shellista][1]
 * [ShellistaExt][2]
 * [editmenu] [7]
-* [GoogleSearch] [8]
 
 GitHub Gists
 ------------
@@ -11,6 +10,7 @@ GitHub Gists
 * [Dropbox Sync][4]
 * [FontInstaller][5]
 * [ShortcutGenerator] [6]
+* [GoogleSearch] [8]
 
 [1]: https://github.com/transistor1/shellista
 [2]: https://github.com/briarfox/ShellistaExt
