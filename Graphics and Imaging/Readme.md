@@ -2,7 +2,7 @@ GitHub Repos
 ------------
 * [photo_text][1]
 
-GitHub Gists:
+GitHub Gists
 ------------
 * [EXIF] [2]
 * [ShowLastPhotoMap] [3]

@@ -1,10 +1,11 @@
 GitHub Repos
 ------------
 
-GitHub Gists:
+GitHub Gists
 ------------
 * [Air Hockey] [1]
 * [Cloud Jump] [2]
+	* [Cloud Jump with Sound Effects] [10]
 * [Times Tables Torture] [3]
 * [Jumpy Octopus] [4]
 * [Space Shooter] [5]
@@ -25,3 +26,4 @@ Custom Modules
 [7]: https://gist.github.com/mmurdoch/6263978
 [8]: https://gist.github.com/davebang/6113246
 [9]: https://github.com/tjferry14/High-Scores
+[10]: https://gist.github.com/tjferry14/cfdd98b8eeaf9c03c99f

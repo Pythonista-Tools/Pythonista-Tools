@@ -1,7 +1,7 @@
 GitHub Repos
 ------------
 
-GitHub Gists:
+GitHub Gists
 ------------
 * [Sound Demo] [1]
 * [Sounder] [2]
