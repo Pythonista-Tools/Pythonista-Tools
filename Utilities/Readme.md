@@ -11,6 +11,7 @@ GitHub Gists
 * [FontInstaller][5]
 * [ShortcutGenerator] [6]
 * [GoogleSearch] [8]
+* [watch_pythonista_forum] [9]
 
 [1]: https://github.com/transistor1/shellista
 [2]: https://github.com/briarfox/ShellistaExt
@@ -20,3 +21,4 @@ GitHub Gists
 [6]: https://gist.github.com/omz/7870550
 [7]: https://github.com/jsbain/editmenu
 [8]: https://gist.github.com/omz/3908817
+[9]: https://gist.github.com/cclauss/8794104
