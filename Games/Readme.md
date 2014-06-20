@@ -12,6 +12,10 @@ GitHub Gists:
 * [Dice Roller] [7]
 * [Space Invaders] [8]
 
+Custom Modules
+------------
+* [High-Scores] [9]
+
 [1]: https://gist.github.com/gillibrand/3271073
 [2]: https://gist.github.com/BashedCrab/9098744
 [3]: https://gist.github.com/BashedCrab/9062268
@@ -20,3 +24,4 @@ GitHub Gists:
 [6]: https://gist.github.com/GuyCarver/4116156
 [7]: https://gist.github.com/mmurdoch/6263978
 [8]: https://gist.github.com/davebang/6113246
+[9]: https://github.com/tjferry14/High-Scores
