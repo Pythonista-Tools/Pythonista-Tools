@@ -3,6 +3,7 @@ GitHub Repos
 * [Shellista][1]
 * [ShellistaExt][2]
 * [editmenu] [7]
+* [GoogleSearch] [8]
 
 GitHub Gists
 ------------
@@ -18,3 +19,4 @@ GitHub Gists
 [5]: https://gist.github.com/omz/9901460
 [6]: https://gist.github.com/omz/7870550
 [7]: https://github.com/jsbain/editmenu
+[8]: https://gist.github.com/omz/3908817
