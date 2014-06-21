@@ -13,6 +13,7 @@ GitHub Gists
 Custom Modules
 ------------
 * [Turtle for Pythonista] [7]
+* [distinct_colors] [8]
 
 [1]: https://github.com/humberry/photo_text
 [2]: https://gist.github.com/PyDann/2ae90ccadab4c2133766
@@ -21,3 +22,4 @@ Custom Modules
 [5]: https://gist.github.com/cclauss/8683457
 [6]: https://gist.github.com/cclauss/6349730
 [7]: https://gist.github.com/omz/4413863
+[8]: https://gist.github.com/upwart/ede14e200fbeeb331786
