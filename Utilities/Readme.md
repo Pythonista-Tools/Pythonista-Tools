@@ -3,6 +3,7 @@ GitHub Repos
 * [Shellista][1]
 * [ShellistaExt][2]
 * [editmenu] [7]
+* [Snakeyes] [10]
 
 GitHub Gists
 ------------
@@ -22,3 +23,4 @@ GitHub Gists
 [7]: https://github.com/jsbain/editmenu
 [8]: https://gist.github.com/omz/3908817
 [9]: https://gist.github.com/cclauss/8794104
+[10]: https://github.com/gerzer/snakeyes
