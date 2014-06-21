@@ -2,6 +2,7 @@ Tools and scripts that facilitate the downloading and importing of Python module
 
 GitHub Repos
 ------------
+* NLTK Installer -- We nées one!!!
 * [ShellistaExt][2]
 
 GitHub Gists
