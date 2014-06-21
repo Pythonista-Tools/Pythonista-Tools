@@ -1,5 +1,7 @@
 GitHub Repos
 ------------
+* [Minesweeper] [11]
+	* [Minesweeper with additional features] [12]
 
 GitHub Gists
 ------------
@@ -27,3 +29,5 @@ Custom Modules
 [8]: https://gist.github.com/davebang/6113246
 [9]: https://github.com/tjferry14/High-Scores
 [10]: https://gist.github.com/tjferry14/cfdd98b8eeaf9c03c99f
+[11]: https://github.com/mevdschee/pythonista-minesweeper
+[12]: https://github.com/git-bee/pythonista-minesweeper
