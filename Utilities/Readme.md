@@ -4,6 +4,7 @@ GitHub Repos
 * [ShellistaExt][2]
 * [editmenu] [7]
 * [Snakeyes] [10]
+* [PythonistaRSSReader] [11]
 
 GitHub Gists
 ------------
@@ -24,3 +25,4 @@ GitHub Gists
 [8]: https://gist.github.com/omz/3908817
 [9]: https://gist.github.com/cclauss/8794104
 [10]: https://github.com/gerzer/snakeyes
+[11]: https://github.com/dlo/PythonistaRSSReader
