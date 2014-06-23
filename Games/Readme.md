@@ -14,6 +14,8 @@ GitHub Gists
 * [Monkey] [6]
 * [Dice Roller] [7]
 * [Space Invaders] [8]
+* [Maze Craze] [13]
+	* Recently updated to use the new UI module
 
 Custom Modules
 ------------
@@ -31,3 +33,4 @@ Custom Modules
 [10]: https://gist.github.com/tjferry14/cfdd98b8eeaf9c03c99f
 [11]: https://github.com/mevdschee/pythonista-minesweeper
 [12]: https://github.com/git-bee/pythonista-minesweeper
+[13]: https://gist.github.com/GuyCarver/4000630
