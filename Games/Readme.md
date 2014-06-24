@@ -1,25 +1,36 @@
 GitHub Repos
 ------------
 * [Minesweeper] [11]
+	* Minesweeper game for Pythonista
 	* [Minesweeper with additional features] [12]
 * [Cloud Jump 2] [10]
+	* Additional features from the original [Cloud Jump] [2]
 
 GitHub Gists
 ------------
 * [Air Hockey] [1]
+	* Air Hockey game (iPad and iPhone)
 * [Cloud Jump] [2]
+	* Doodle Jump style game
 * [Times Tables Torture] [3]
+	* Math Challenge game
 * [Jumpy Octopus] [4]
+	* Flappy Bird style game
 * [Space Shooter] [5]
+	* Space Shooter style game
 * [Monkey] [6]
+	* Frogger style game
 * [Dice Roller] [7]
+	* Simple dice roller program
 * [Space Invaders] [8]
+	* Space Invaders style game
 * [Maze Craze] [13]
 	* Recently updated to use the new UI module
 
 Custom Modules
 ------------
 * [High-Scores] [9]
+	* Module to save players' high score in games
 
 [1]: https://gist.github.com/gillibrand/3271073
 [2]: https://gist.github.com/BashedCrab/9098744
