@@ -1,19 +1,29 @@
 GitHub Repos
 ------------
 * [Shellista][1]
-* [ShellistaExt][2]
+	* iOS Shell Written for Pythonista
+	* [ShellistaExt][2]
 * [editmenu] [7]
+	* Pythonista editor sidebar utilities
 * [Snakeyes] [10]
+	* Simple code-completion system for Pythonista
 * [PythonistaRSSReader] [11]
+	* Super simple RSS reader for use with Pythonista
 
 GitHub Gists
 ------------
 * [Dropbox File Picker][3]
+	* Script to import a file from Dropbox into Pythonista
 * [Dropbox Sync][4]
+	* Dropbox File Syncronization
 * [FontInstaller][5]
+	* Script installs a custom TTF font on iOS (system-wide)
 * [ShortcutGenerator] [6]
+	* Script adds a "Webclip" shortcut to your homescreen
 * [GoogleSearch] [8]
+	* Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title](url)`.
 * [watch_pythonista_forum] [9]
+	* Script prints out info on all posts to the Pythonista forum in the past 24 hours
 
 [1]: https://github.com/transistor1/shellista
 [2]: https://github.com/briarfox/ShellistaExt
