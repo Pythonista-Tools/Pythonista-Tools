@@ -19,7 +19,7 @@ GitHub Gists
 * [FontInstaller][5]
 	* Script installs a custom TTF font on iOS (system-wide)
 * [ShortcutGenerator] [6]
-	* Script adds a "Webclip" shortcut to your homescreen
+	* Script adds a "Webclip" shortcut to your homescreen for another script
 * [GoogleSearch] [8]
 	* Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`.
 * [watch_pythonista_forum] [9]

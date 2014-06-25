@@ -25,6 +25,7 @@ GitHub Gists
 * [Space Invaders] [8]
 	* Space Invaders style game
 * [Maze Craze] [13]
+	* A Maze Generator/Pacman style game
 	* Recently updated to use the new UI module
 
 Custom Modules
