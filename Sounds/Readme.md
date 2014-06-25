@@ -4,7 +4,7 @@ GitHub Repos
 GitHub Gists
 ------------
 * [Sound Demo] [1]
-	* Simple demo of playing a looping sound using the (currently undocumented) sound.Player class
+	* Simple demo of playing a looping sound using the (currently undocumented) `sound.Player` class
 * [Sounder] [2]
 	* This script plays each .caf sound inside of Pythonista.app
 * [The Blues] [3]

@@ -10,11 +10,11 @@ GitHub Gists
 * [ShowLastPhotoMap] [3]
 	* Script to grab a photo's location and display it
 * [getColor] [4]
-	* Creates a dict of 752 Pythonista scene.Colors from the tkinter color palette
+	* Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette
 * [Diagonal Line] [5]
 	* Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image
 * [Tilting Color] [6]
-	* A gravity hack that uses Pythonista's scene.gravity() method to change screen colors when the user tilts their device
+	* A gravity hack that uses Pythonista's `scene.gravity()` method to change screen colors when the user tilts their device
 
 Custom Modules
 ------------

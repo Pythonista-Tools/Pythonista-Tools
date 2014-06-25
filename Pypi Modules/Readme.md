@@ -4,12 +4,12 @@ GitHub Repos
 ------------
 * NLTK Installer -- We need one!!!
 * [ShellistaExt][2]
-	* create a plugin for Shellista
+	* Creates a plugin for Shellista
 
 GitHub Gists
 ------------
 * [pipista][3]
-	* pipista - pip module (for installing other modules) for Pythonista
+	* Pip module (for installing other modules) for Pythonista
 
 [1]: https://pypi.python.org/pypi
 [2]: https://github.com/briarfox/ShellistaExt

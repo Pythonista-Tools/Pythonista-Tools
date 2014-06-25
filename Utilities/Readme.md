@@ -15,13 +15,13 @@ GitHub Gists
 * [Dropbox File Picker][3]
 	* Script to import a file from Dropbox into Pythonista
 * [Dropbox Sync][4]
-	* Dropbox File Syncronization
+	* Dropbox File Synchronization
 * [FontInstaller][5]
 	* Script installs a custom TTF font on iOS (system-wide)
 * [ShortcutGenerator] [6]
 	* Script adds a "Webclip" shortcut to your homescreen
 * [GoogleSearch] [8]
-	* Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title](url)`.
+	* Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`.
 * [watch_pythonista_forum] [9]
 	* Script prints out info on all posts to the Pythonista forum in the past 24 hours
 
