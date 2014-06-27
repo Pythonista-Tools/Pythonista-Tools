@@ -2,14 +2,20 @@ Tools and scripts that facilitate the downloading and importing of Python module
 
 GitHub Repos
 ------------
-* NLTK Installer -- We need one!!!
-* [ShellistaExt][2]
-	* Creates a plugin for Shellista
+	
+| Script Name        | Description   | 
+| -------------      | ------------- | 
+| NLTK Installer    | We need one!!! |
+| [ShellistaExt][2]      | Extension of [Shellista][1] for Pythonista    |
+
 
 GitHub Gists
 ------------
-* [pipista][3]
-	* Pip module (for installing other modules) for Pythonista
+
+| Script Name        | Description   | 
+| -------------      | ------------- | 
+| [pipista][3]   | Pip module (for installing other modules) for Pythonista |
+
 
 [1]: https://pypi.python.org/pypi
 [2]: https://github.com/briarfox/ShellistaExt
