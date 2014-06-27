@@ -9,7 +9,7 @@ Custom Modules
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [Hydrogen][1]      | A lightweight GUI framework for Pythonista that requires: [HydrogenLayouts][2] and [HydrogenDemo][3]|
+| [Hydrogen][1]      | A lightweight GUI framework for Pythonista that requires [HydrogenLayouts][2] and [HydrogenDemo][3]|
 
 
 [1]: https://gist.github.com/BashedCrab/5924965
