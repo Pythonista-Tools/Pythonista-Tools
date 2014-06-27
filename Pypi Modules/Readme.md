@@ -6,7 +6,7 @@ GitHub Repos
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | NLTK Installer    | We need one!!! |
-| [ShellistaExt][2]      | Extension of [Shellista][1] for Pythonista    |
+| [ShellistaExt][2]      | Extension of [Shellista][4] for Pythonista    |
 
 
 GitHub Gists
@@ -20,5 +20,5 @@ GitHub Gists
 [1]: https://pypi.python.org/pypi
 [2]: https://github.com/briarfox/ShellistaExt
 [3]: https://gist.github.com/pudquick/4116558
-
+[4]: https://github.com/transistor1/shellista
 
