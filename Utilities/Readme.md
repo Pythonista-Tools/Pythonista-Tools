@@ -21,6 +21,7 @@ GitHub Gists
 | [ShortcutGenerator] [6] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch] [8] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
 | [watch_pythonista_forum] [9] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
+|  [gistcheck][12]  |  download or upload gists via bookmarklet and action menu.       |
 
 
 [1]: https://github.com/transistor1/shellista
@@ -34,3 +35,4 @@ GitHub Gists
 [9]: https://gist.github.com/cclauss/8794104
 [10]: https://github.com/gerzer/snakeyes
 [11]: https://github.com/dlo/PythonistaRSSReader
+[12]: https://gist.github.com/jsbain/1c95b3491d65d9e24456#
