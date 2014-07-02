@@ -4,7 +4,6 @@ GitHub Repos
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Shellista][1]      | iOS Shell Written for Pythonista |
-| [ShellistaExt][2]      | Extension of [Shellista][1] for Pythonista | 
 | [editmenu] [7] | Pythonista editor sidebar utilities |
 | [Snakeyes] [10] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader] [11] | Super simple RSS reader for use with Pythonista |
