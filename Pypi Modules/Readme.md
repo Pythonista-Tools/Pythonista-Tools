@@ -6,7 +6,6 @@ GitHub Repos
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | NLTK Installer    | We need one!!! |
-| [ShellistaExt][2]      | Extension of [Shellista][4] for Pythonista    |
 
 
 GitHub Gists
