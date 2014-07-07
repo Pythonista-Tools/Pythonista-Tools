@@ -86,10 +86,11 @@ def pack(path):
 def main():
     import sys
     if len(sys.argv) > 1: # pack files specified via argv
-        arg = ""
-        for a in sys.argv[1:]:
-            arg += a + " "
-        arg = arg.rstrip(" ")
+        arg = ' '.join(sys.argv[1:])
+        #arg = ""
+        #for a in sys.argv[1:]:
+        #    arg += a + " "
+        #arg = arg.rstrip(" ")
         
         try:
             pack(arg)
@@ -97,7 +98,8 @@ def main():
             print("Failed to pack program: " + err.message)
     else: # display prompt for file
         import console
-        arg = console.input_alert("Package UI Application", "Enter path (relative to current directory) of the application to be packaged, without .py or .pyui suffixes.")
+        msg = "Enter path (relative to current directory) of the application to be packaged, without .py or .pyui suffixes."
+        arg = console.input_alert("Package UI Application", msg)
         
         try:
             pack(arg)
@@ -105,7 +107,8 @@ def main():
             console.alert("Failed to pack", err.message)
             return
         
-        console.alert("Packaging Successful", "Application was successfully packaged into " + arg + ".uipack.py!", "OK", hide_cancel_button=True)
+        msg = "Application was successfully packaged into {}.uipack.py!".format(arg)
+        console.alert("Packaging Successful", msg, "OK", hide_cancel_button=True)
 
 if __name__ == "__main__":
     main()
