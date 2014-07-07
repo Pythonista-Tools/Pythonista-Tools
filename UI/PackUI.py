@@ -15,39 +15,42 @@
 
 import os.path
 
+def script_header(name):
+    return '''# -*- coding: utf-8 -*-
+###############################################################################
+# This is a self-extracting UI application package for {name}.
+# Run this script once to extract the packaged application.
+# The files will be extracted to {name}.py and {name}.pyui.
+# Make sure that these files do not exist yet.
+# To update from an older version, move or delete the old files first.
+# After extracting, the application can be found at {name}.py.
+# This bundle can be deleted after extraction.
+###############################################################################
+# Packaged using PackUI by dgelessus
+# https://github.com/Pythonista-Tools/Pythonista-Tools/blob/master/UI/PackUI.py
+###############################################################################
+
+import console, os.path
+
+NAME = "{name}"
+
+'''.format(name=name)
+
 def pack(path):
     name = os.path.split(path)[1]
     
     if not os.path.exists(path + ".py"):
         raise IOError(path + ".py does not exist")
-    
-    if not os.path.isfile(path + ".py"):
+    elif not os.path.isfile(path + ".py"):
         raise IOError(path + ".py is not a file")
-    
-    if not os.path.exists(path + ".pyui"):
+    elif not os.path.exists(path + ".pyui"):
         raise IOError(path + ".pyui does not exist")
-    
-    if not os.path.isfile(path + ".pyui"):
+    elif not os.path.isfile(path + ".pyui"):
         raise IOError(path + ".pyui is not a file")
-    
-    if os.path.exists(path + ".uipack.py"):
+    elif os.path.exists(path + ".uipack.py"):
         raise IOError(path + ".uipack.py already exists")
     
-    out  = "# -*- coding: utf-8 -*-\n"
-    out += "###############################################################################\n"
-    out += "# This is a self-extracting UI application package for " + name + ".\n"
-    out += "# Run this script once to extract the packaged application.\n"
-    out += "# The files will be extracted to " + name + ".py and " + name + ".pyui.\n"
-    out += "# Make sure that these files do not exist yet.\n"
-    out += "# To update from an older version, move or delete the old files first.\n"
-    out += "# After extracting, the application can be found at " + name + ".py.\n"
-    out += "# This bundle can be deleted after extraction.\n"
-    out += "###############################################################################\n"
-    out += "# Packaged using PackUI by dgelessus\n"
-    out += "# https://github.com/Pythonista-Tools/Pythonista-Tools/blob/master/UI/PackUI.py\n"
-    out += "###############################################################################\n\n"
-    out += "import console, os.path\n\n"
-    out += "NAME = \"" + name + "\" \n\n"
+    out = script_header(name)
     
     with open(path + ".py") as f:
         txt = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
