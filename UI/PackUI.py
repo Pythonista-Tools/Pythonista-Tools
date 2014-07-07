@@ -51,7 +51,8 @@ def main():
     with open(NAME + ".pyui", "w") as f:
         f.write(PYUIFILE.replace("\\\\\\"\\\\\\"\\\\\\"", "\\"\\"\\"").replace("\\\\\\\\", "\\\\"))
     
-    console.alert("Extraction Successful", NAME + ".py and " + NAME + ".pyui were successfully extracted!", "OK", hide_cancel_button=True)
+    msg = NAME + ".py and " + NAME + ".pyui were successfully extracted!"
+    console.alert("Extraction Successful", msg, "OK", hide_cancel_button=True)
     
 if __name__ == "__main__":
     main()'''.format(name=name, pyfile=pyfile, pyuifile=pyuifile)
