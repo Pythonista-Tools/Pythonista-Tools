@@ -15,7 +15,7 @@
 
 import os.path
 
-def script_header(name):
+def script_text(name, pyfile, pyuifile):
     return '''# -*- coding: utf-8 -*-
 ###############################################################################
 # This is a self-extracting UI application package for {name}.
@@ -32,35 +32,11 @@ def script_header(name):
 
 import console, os.path
 
-NAME = "{name}"
+NAME     = "{name}"
+PYFILE   = "{pyfile}"
+PYUIFILE = "{pyuifile}"
 
-'''.format(name=name)
-
-def pack(path):
-    name = os.path.split(path)[1]
-    
-    if not os.path.exists(path + ".py"):
-        raise IOError(path + ".py does not exist")
-    elif not os.path.isfile(path + ".py"):
-        raise IOError(path + ".py is not a file")
-    elif not os.path.exists(path + ".pyui"):
-        raise IOError(path + ".pyui does not exist")
-    elif not os.path.isfile(path + ".pyui"):
-        raise IOError(path + ".pyui is not a file")
-    elif os.path.exists(path + ".uipack.py"):
-        raise IOError(path + ".uipack.py already exists")
-    
-    out = script_header(name)
-    
-    with open(path + ".py") as f:
-        txt = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
-        out += "PYFILE = \"\"\"" + txt + "\"\"\"\n\n"
-    
-    with open(path + ".pyui") as f:
-        txt = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
-        out += "PYUIFILE = \"\"\"" + txt + "\"\"\"\n\n"
-    
-    out += """def main():
+def main():
     if os.path.exists(NAME + ".py"):
         console.alert("Failed to Extract", NAME + ".py already exists.")
         return
@@ -78,7 +54,29 @@ def pack(path):
     console.alert("Extraction Successful", NAME + ".py and " + NAME + ".pyui were successfully extracted!", "OK", hide_cancel_button=True)
     
 if __name__ == "__main__":
-    main()"""
+    main()'''.format(name=name, pyfile=pyfile, pyuifile=pyuifile)
+
+def pack(path):
+    if not os.path.exists(path + ".py"):
+        raise IOError(path + ".py does not exist")
+    elif not os.path.isfile(path + ".py"):
+        raise IOError(path + ".py is not a file")
+    elif not os.path.exists(path + ".pyui"):
+        raise IOError(path + ".pyui does not exist")
+    elif not os.path.isfile(path + ".pyui"):
+        raise IOError(path + ".pyui is not a file")
+    elif os.path.exists(path + ".uipack.py"):
+        raise IOError(path + ".uipack.py already exists")
+    
+    name = os.path.split(path)[1]
+
+    with open(path + ".py") as f:
+        pyfile = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
+    
+    with open(path + ".pyui") as f:
+        pyuifile = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
+    
+    out = script_text(name, pyfile, pyuifile)
     
     with open(path + ".uipack.py", "w") as f:
         f.write(out)
