@@ -36,6 +36,9 @@ NAME     = "{name}"
 PYFILE   = "{pyfile}"
 PYUIFILE = "{pyuifile}"
 
+def fix_quotes_out(s):
+    return s.replace("\\\\\\"\\\\\\"\\\\\\"", "\\"\\"\\"").replace("\\\\\\\\", "\\\\")
+
 def main():
     if os.path.exists(NAME + ".py"):
         console.alert("Failed to Extract", NAME + ".py already exists.")
@@ -46,16 +49,19 @@ def main():
         return
     
     with open(NAME + ".py", "w") as f:
-        f.write(PYFILE.replace("\\\\\\"\\\\\\"\\\\\\"", "\\"\\"\\"").replace("\\\\\\\\", "\\\\"))
+        f.write(fix_quotes_out(PYFILE))
     
     with open(NAME + ".pyui", "w") as f:
-        f.write(PYUIFILE.replace("\\\\\\"\\\\\\"\\\\\\"", "\\"\\"\\"").replace("\\\\\\\\", "\\\\"))
+        f.write(fix_quotes_out(PYUIFILE))
     
     msg = NAME + ".py and " + NAME + ".pyui were successfully extracted!"
     console.alert("Extraction Successful", msg, "OK", hide_cancel_button=True)
     
 if __name__ == "__main__":
     main()'''.format(name=name, pyfile=pyfile, pyuifile=pyuifile)
+
+def fix_quotes_in(s):
+    return s.replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
 
 def pack(path):
     if not os.path.exists(path + ".py"):
@@ -72,10 +78,10 @@ def pack(path):
     name = os.path.split(path)[1]
 
     with open(path + ".py") as f:
-        pyfile = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
+        pyfile = fix_quotes_in(f.read())
     
     with open(path + ".pyui") as f:
-        pyuifile = f.read().replace("\\", "\\\\").replace("\"\"\"", "\\\"\\\"\\\"")
+        pyuifile = fix_quotes_in(f.read())
     
     out = script_text(name, pyfile, pyuifile)
     
@@ -88,11 +94,7 @@ def main():
     import sys
     if len(sys.argv) > 1: # pack files specified via argv
         arg = ' '.join(sys.argv[1:])
-        #arg = ""
-        #for a in sys.argv[1:]:
-        #    arg += a + " "
-        #arg = arg.rstrip(" ")
-        
+
         try:
             pack(arg)
         except IOError as err:
