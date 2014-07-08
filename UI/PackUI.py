@@ -33,8 +33,8 @@ def script_text(name, pyfile, pyuifile):
 import console, os.path
 
 NAME     = "{name}"
-PYFILE   = "{pyfile}"
-PYUIFILE = "{pyuifile}"
+PYFILE   = """{pyfile}"""
+PYUIFILE = """{pyuifile}"""
 
 def fix_quotes_out(s):
     return s.replace("\\\\\\"\\\\\\"\\\\\\"", "\\"\\"\\"").replace("\\\\\\\\", "\\\\")
