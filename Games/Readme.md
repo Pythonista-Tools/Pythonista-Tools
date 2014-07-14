@@ -22,6 +22,7 @@ GitHub Gists
 | [Dice Roller] [7] | Simple dice roller program  |
 | [Space Invaders] [8] | Space Invaders style game  |
 | [Maze Craze] [13] | A Maze Generator/Pacman style game  |
+| [2048] [14] | A UI Pythonista 2048 clone  |
 
 
 Custom Modules
@@ -45,3 +46,4 @@ Custom Modules
 [11]: https://github.com/mevdschee/pythonista-minesweeper
 [12]: https://github.com/git-bee/pythonista-minesweeper
 [13]: https://gist.github.com/GuyCarver/4000630
+[14]: https://gist.github.com/henryiii/0a58c7e958c1b317f64a
