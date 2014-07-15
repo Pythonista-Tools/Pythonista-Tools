@@ -22,7 +22,7 @@ GitHub Gists
 | [Dice Roller] [7] | Simple dice roller program  |
 | [Space Invaders] [8] | Space Invaders style game  |
 | [Maze Craze] [13] | A Maze Generator/Pacman style game  |
-| [2048] [14] | A UI Pythonista 2048 clone  |
+| [2048] [14] | A Pythonista 2048 clone, using ui module. Also should work in console in any python.  |
 
 
 Custom Modules
