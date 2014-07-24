@@ -22,7 +22,7 @@ GitHub Gists
 | [GoogleSearch] [8] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
 | [watch_pythonista_forum] [9] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
 | [gistcheck][12]  |  Download or upload gists via bookmarklet and action menu      |
-| [glassboard2json.][14]  |  Simple converter script to get machine-readable JSON from a Glassboard HTML export      |
+| [glassboard2json][14]  |  Simple converter script to get machine-readable JSON from a Glassboard HTML export      |
 
 
 [1]: https://github.com/transistor1/shellista
