@@ -8,6 +8,7 @@ GitHub Repos
 | [Snakeyes] [10] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader] [11] | Super simple RSS reader for use with Pythonista |
 | [filenav] [13] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
+| [LastPass Pythonista] [16] | LastPass Python API (adapted for iOS - Pythonista) |
 
 
 GitHub Gists
@@ -41,3 +42,4 @@ GitHub Gists
 [13]: https://github.com/dgelessus/pythonista-scripts
 [14]: https://gist.github.com/omz/6674820
 [15]: https://gist.github.com/omz/5596891
+[16]: https://github.com/HyShai/lastpass-pythonista
