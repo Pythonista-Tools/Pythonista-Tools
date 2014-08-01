@@ -53,7 +53,7 @@ img {
 }
 .navbar-inverse .navbar-brand {
   color: #fff;
-  padding:20px 0 0;
+  font-size: 21px;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -78,7 +78,7 @@ img {
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
-.navbar {padding: 5px 0;}
+.navbar {padding: 10px 10px 0 0;}
 
 @media(min-width:768px) {
     body {
