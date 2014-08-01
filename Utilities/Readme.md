@@ -25,6 +25,7 @@ GitHub Gists
 | [gistcheck][12]  |  Download or upload gists via bookmarklet and action menu      |
 | [glassboard2json][14]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][15]  |  URL shortener using is.gd      |
+| [url_lenghtener][17] | Convert a short URL into the original longer version |
 
 
 [1]: https://github.com/transistor1/shellista
@@ -43,3 +44,4 @@ GitHub Gists
 [14]: https://gist.github.com/omz/6674820
 [15]: https://gist.github.com/omz/5596891
 [16]: https://github.com/HyShai/lastpass-pythonista
+[17]: https://gist.github.com/HyShai/e0a83811d8c635bd226f
