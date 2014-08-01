@@ -8,6 +8,7 @@
 }
 body {
 	background-color: #313d4e;
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 	font-family: "Source Sans Pro", helvetica, arial;
 	font-weight: 100;
 	font-size: 18px;
@@ -45,6 +46,44 @@ img {
 
 #main-text {
 	padding: 0 40px 0 40px;
+}
+
+.navbar-inverse {
+  background-color: #313d4e;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #fff;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #777;
+  background-color: transparent;
+}
+.navbar-inverse .navbar-text {
+  color: #fff;
+}
+.navbar-inverse .navbar-nav > li > a {
+  color: #fff;
+}
+
+
+.navbar-fixed-top .nav {
+    padding: 15px 0;
+}
+
+.navbar-fixed-top .navbar-brand {
+    padding: 0 15px;
+}
+
+@media(min-width:768px) {
+    body {
+        padding-top: 100px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    }
+
+    .navbar-fixed-top .navbar-brand {
+        padding: 15px 0;
+    }
 }
 
 /* Custom page footer */
@@ -111,7 +150,6 @@ h1.title {
 .header-links a:hover {
 	color: #337097;
 }
-
 
 .sub-header {
 	clear: both;
