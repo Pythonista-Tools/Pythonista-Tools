@@ -95,6 +95,7 @@ h1.title {
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
+  padding-bottom: 19px;
   color: #fff;	
 }
 
@@ -111,10 +112,6 @@ h1.title {
 	color: #337097;
 }
 
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  padding-bottom: 19px;
-}
 
 .sub-header {
 	clear: both;
