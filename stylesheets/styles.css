@@ -23,6 +23,12 @@ a:hover {
 img {
   max-width: 100%;
 }
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
 #container {
 	margin: 0 auto;
 	margin-top: 30px;
