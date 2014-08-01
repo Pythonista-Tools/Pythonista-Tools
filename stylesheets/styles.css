@@ -47,6 +47,12 @@ img {
 	padding: 0 40px 0 40px;
 }
 
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;}
+
 .footer-links {
 	text-align: center;
 	margin-bottom: 50px;
@@ -140,6 +146,11 @@ hr {
 .header {
   border-bottom: 1px solid #e5e5e5;
   color: #fff;	
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  padding-bottom: 19px;
 }
 
 /* Grid */
