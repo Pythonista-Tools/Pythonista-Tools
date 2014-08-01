@@ -76,7 +76,7 @@ img {
 .navbar-inverse .navbar-nav > .active > a:focus {
   color: #777;
 }
-.navbar {padding: 10px 0 0 10px;}
+.navbar {padding: 10px 0 5px 10px;}
 
 @media(min-width:768px) {
     body {
