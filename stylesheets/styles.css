@@ -24,7 +24,7 @@ img {
   max-width: 100%;
 }
 
-well{color: #555;}
+.well{color: #555;}
 
 @media (min-width: 768px) {
   .container {
