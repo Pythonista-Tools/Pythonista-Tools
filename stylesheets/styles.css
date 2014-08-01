@@ -5,7 +5,8 @@
 
 * Everything but the jumbotron gets side spacing for mobile first views */
 .header,
-.marketing, {
+.marketing,
+.footer {
   padding-right: 15px;
   padding-left: 15px;
 }
@@ -24,13 +25,10 @@
 
 /* Custom page footer */
 .footer {
-  padding-top: 5px;
-  width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 60px;
-  background-color: #f5f5f5;
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
 }
-
 
 /* Customize container */
 @media (min-width: 768px) {
