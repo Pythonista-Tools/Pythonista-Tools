@@ -25,7 +25,7 @@ GitHub Gists
 | [gistcheck][12]  |  Download or upload gists via bookmarklet and action menu      |
 | [glassboard2json][14]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][15]  |  URL shortener using is.gd      |
-| [url_lenghtener][17] | Convert a short URL into the original longer version |
+| [url_lengthener][17] | Convert a short URL into the original longer version |
 
 
 [1]: https://github.com/transistor1/shellista
