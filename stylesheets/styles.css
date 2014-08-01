@@ -31,6 +31,8 @@ a:hover {
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
+  color: #fff;	
+
 }
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
@@ -61,6 +63,7 @@ a:hover {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  color: #555;	
 }
 .jumbotron .btn {
   padding: 14px 24px;
