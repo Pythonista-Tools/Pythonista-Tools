@@ -44,4 +44,4 @@ GitHub Gists
 [14]: https://gist.github.com/omz/6674820
 [15]: https://gist.github.com/omz/5596891
 [16]: https://github.com/HyShai/lastpass-pythonista
-[17]: https://github.com/HyShai/url-cleaner/blob/master/url_cleaner.py
+[17]: https://github.com/HyShai/url-cleaner
