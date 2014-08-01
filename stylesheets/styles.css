@@ -1,11 +1,17 @@
 @import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,300italic);
 
+* { 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box;
+	-webkit-text-size-adjust: none;
+}
 body {
 	background-color: #313d4e;
 	font-family: "Source Sans Pro", helvetica, arial;
 	font-weight: 100;
 	font-size: 18px;
-	color: #fff;	
+	color: #555;	
 }
 a {
 	text-decoration: none;
@@ -14,85 +20,363 @@ a {
 a:hover {
 	text-decoration: underline;
 }
-
-.starter-template {
-  padding: 20px 15px;
-  text-align: center;
+img {
+  max-width: 100%;
+}
+#container {
+	margin: 0 auto;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	max-width: 985px;
+	background-color: #f7f7f7;
+	border-radius: 5px;
+	-moz-box-shadow:0px 0px 3px rgb(0,0,0);
+	-webkit-box-shadow:0px 0px 3px rgb(0,0,0);
+	box-shadow:0px 0px 3px rgb(0,0,0);
 }
 
-* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
-  padding-right: 15px;
-  padding-left: 15px;
+#main-text {
+	padding: 0 40px 0 40px;
 }
 
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-  color: #fff;	
-
+.footer-links {
+	text-align: center;
+	margin-bottom: 50px;
+	padding: 0 0 40px 0;
 }
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  padding-bottom: 19px;
+.footer-links li {
+	margin-bottom: 10px;
+	font-weight: 400;
+	list-style: none;
+}
+
+h1.title {
+	font-size: 40px;
+	font-weight: 100;
+	margin: 0 0 20px 0;
+	
+	padding: 30px 0 10px 40px;
+	-webkit-font-smoothing:antialiased;
+}
+	
+#banderole {
+	font-size: 35px;
+	font-weight: 100;
+	-webkit-font-smoothing:antialiased;
+	background-color: #347196;
+	color: white;
+	padding: 20px 40px 20px 40px;
+	margin: 0 0 40px 0;
+}
+
+#banderole > a {
+  color: white;
+}
+
+.header-links {
+	float: right;
+	margin-top: 15px;
+	margin-right: 20px;
+	color: #999;
+}
+.header-links a {
+	color: #999;
+}
+.header-links a:hover {
+	color: #337097;
+}
+
+.sub-header {
+	clear: both;
+	background-color: #eee;
+	
+	margin: 30px -40px 30px -40px;
+	
+	padding: 8px 40px 8px 40px;
+	border-width: 1px 0 1px 0;
+	border-style: solid;
+	
+	border-color: #d9d9d9;
+	/*border-color: #bbb;*/
+	
+	font-weight: 100;
+	font-size: 35px;
+	
+	-moz-box-shadow:0px 0px 2px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px 0px 2px rgba(0,0,0,0.15);
+	box-shadow:0px 0px 2px rgba(0,0,0,0.15);
+}
+
+hr {
+	color: #d9d9d9;
+	/*color: #bbb;*/
+	background-color: #d9d9d9;
+	/*background-color: #bbb;*/
+	border: 0;
+	height: 1px;
+}
+
+/* Grid */
+.grid-container {
+	margin: 0 30px 0 30px;
+}
+.row { 
+	width: 1000px; 
+	max-width: 100%; 
+	min-width: 200px; 
+	margin: 0 auto;
+}	
+.column {
+	float: left; 
+	min-height: 1px; 
+	padding: 0 20px;
+	position: relative; 
+	margin-bottom: 30px;
+}
+.column>strong {
+	font-weight: 400;
+	color: #b35e98;
+}
+
+.row .six { width: 50%; }
+.row .twelve { width: 100%; }
+.row .row { width: auto; max-width: none; min-width: 0; margin: 0 -15px; }
+.row:before, .row:after, .clearfix:before, .clearfix:after { content:""; display:table; }
+.row:after, .clearfix:after { clear: both; }
+.row, .clearfix { zoom: 1; }
+
+/* Tablet portrait */
+@media only screen and (max-width: 820px) {
+	body {
+		margin: 0 !important;
+	}
+	#container {
+		padding: 20px !important;
+		margin: 0px !important;
+	}
+	.grid-container {
+		margin: 0 -20px 0 -20px;
+	}
+	#main-text {
+		padding: 0;
+	}
+	#banderole {
+		margin: 0 -20px 40px -20px !important;
+		padding: 20px 20px 20px 20px !important;
+		font-size: 30px !important;
+	}
+	.sub-header {
+		margin: 35px -20px 20px -20px !important;
+		padding: 8px 20px 8px 20px !important;
+		font-size: 30px !important;
+	}
+	h1.title {
+		font-size: 40px !important;
+		padding-left: 0;
+	}
+	.header-links {
+		margin-top: 0px !important;
+		margin-right: 0px !important;
+	}
+	.pull-quote {
+		margin: 0px -20px 25px -20px !important;
+		padding-left: 20px !important;
+	}
+}
+
+/* Phone */
+@media only screen and (max-width: 767px) {
+	.row { width: auto; min-width: 0; margin-left: 0; margin-right: 0; }
+	.column { width: auto !important; float: none; }
+	.column:last-child { float: none; }
+	[class*="column"] + [class*="column"]:last-child { float: none; }
+	.column:before, .columns:before, .column:after, .columns:after { content:""; display:table; }
+	.column:after, .columns:after { clear: both; }
+	h1.title {
+		font-size: 40px !important;
+	}
+	#banderole {
+		font-size: 27px !important;
+		overflow: hidden;
+	}
+	.sub-header {
+		font-size: 27px !important;
+	}
+	.pull-quote {
+		font-size: 27px;
+	}
+}
+
+
+.search-field {
+  font-size: 32px;
+  width: 100%;
+  border-radius: 25px;
+  
+  background-color: white;
+  border: 1px solid #347196;
+  
+  height: 50px;
+  margin-bottom: 30px;
+  
+  padding:6px 15px 6px 50px;
+  outline: none;
+}
+
+a.title-link {
+	color: #555;
+}
+a.title-link:hover {
+	color: #347196;
+	text-decoration: none;
+}
+.workflow-list-description {
+	overflow: hidden;
+}
+
+.comment-box {
+  background-color: white;
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.error {
+  color: #d10000;
+}
+
+label.error {
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 400;
+}
+
+.post-header {
+  font-size: 1.0em;
+  font-weight: 200;
+}
+
+.topic-title {
+  font-size: 1.3em;
+  font-weight: 200;
+  margin-bottom: 8px;
   margin-top: 0;
-  margin-bottom: 0;
-  line-height: 40px;
 }
 
-/* Custom page footer */
-.footer {
-  padding-top: 19px;
-  color: #777;
-  border-top: 1px solid #e5e5e5;
+.topic-title-admin {
+  font-weight: 400;
 }
 
-/* Customize container */
-@media (min-width: 768px) {
-  .container {
-    max-width: 730px;
-  }
-}
-.container-narrow > hr {
-  margin: 30px 0;
+.topic-preview {
+  margin-top: 0;
+  margin-bottom: 8px;
 }
 
-/* Main marketing message and sign up button */
-.jumbotron {
+.topic-details {
+  margin-top: 0;
+  font-size: 0.8em;
+  color: gray;
+}
+
+.topic-details a {
+  color: gray;
+  text-decoration: none;
+  border-bottom: 1px solid #ccc;
+}
+
+.topic-details a:hover {
+  color: #347196;
+  border-bottom: 1px solid #347196;
+}
+
+.nav-links {
+  font-size: 1.3em;
+}
+
+.post {
+  clear: both;
+}
+
+.post h1 {
+  font-size: 1.4em;
+  font-weight: 400;
+}
+
+.post h2 {
+  font-size: 1.2em;
+  font-weight: 400;
+}
+
+.post h3 {
+  font-size: 1.1em;
+  font-weight: 400;
+}
+
+.post h4 {
+  font-size: 1.0em;
+  font-weight: 400;
+}
+
+.post h5 {
+  font-size: 1.0em;
+  font-weight: 400;
+}
+
+.post h6 {
+  font-size: 1.0em;
+  font-weight: 400;
+}
+
+.post hr {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.post blockquote {
+  border-width: 0 0 0 3px;
+  border-color: #bbb;
+  font-size: 0.9em;
+  border-style: solid;
+  margin-left: 0;
+  padding-left: 10px;
+}
+
+.diff del {
+  background-color: #fdb5b0;
+  color: #811209;
+  border-radius: 4px;
+}
+
+.diff ins {
+  background-color: #e0ecd4;
+  color: #50792d;
+  text-decoration: none;
+  border-radius: 4px;
+}
+
+.edited-post {
+  border: 1px solid #ccc;
+  background-color: white;
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.post-tag {
+  background-color: #eee;
+  border: solid 1px #ccc;
+  border-radius: 14px;
+  width: 28px;
+  height: 28px;
+  margin-right: 8px;
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
-  color: #555;	
-}
-.jumbotron .btn {
-  padding: 14px 24px;
-  font-size: 21px;
+  font-size: 20px;
+  display: block;
+  float: left;
 }
 
-/* Supporting marketing content */
-.marketing {
-  margin: 40px 0;
-}
-.marketing p + h4 {
-  margin-top: 28px;
-}
-
-/* Responsive: Portrait tablets and up */
-@media screen and (min-width: 768px) {
-  /* Remove the padding we set earlier */
-  .header,
-  .marketing,
-  .footer {
-    padding-right: 0;
-    padding-left: 0;
-  }
-  /* Space out the masthead */
-  .header {
-    margin-bottom: 30px;
-  }
-  /* Remove the bottom border on the jumbotron for visual effect */
-  .jumbotron {
-    border-bottom: 0;
-  }
+.highlight {
+  background-color: #f8f2ac;
 }
