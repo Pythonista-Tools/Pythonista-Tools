@@ -4,7 +4,7 @@ GitHub Repos
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Minesweeper] [11]      | Minesweeper game for Pythonista |
-| [Minesweeper with additional features] [12]      |       | 
+|       |  [Minesweeper with additional features] [12]     | 
 | [Cloud Jump 2] [10] | Additional features from the original [Cloud Jump] [2]  |
 
 
