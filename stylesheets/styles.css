@@ -51,9 +51,9 @@ img {
 .navbar-inverse {
   background-color: #313d4e;
 }
-
 .navbar-inverse .navbar-brand {
   color: #fff;
+  padding: 0 15px 0 5px;
 }
 .navbar-inverse .navbar-brand:hover,
 .navbar-inverse .navbar-brand:focus {
@@ -66,14 +66,17 @@ img {
 .navbar-inverse .navbar-nav > li > a {
   color: #fff;
 }
-
-
+.navbar-inverse .navbar-nav > li > a:hover,
+.navbar-inverse .navbar-nav > li > a:focus {
+  color: #777;
+}
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus {
+  color: #777;
+}
 .navbar-fixed-top .nav {
     padding: 15px 0;
-}
-
-.navbar-fixed-top .navbar-brand {
-    padding: 0 15px;
 }
 
 @media(min-width:768px) {
