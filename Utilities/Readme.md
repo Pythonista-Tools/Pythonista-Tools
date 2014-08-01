@@ -9,6 +9,7 @@ GitHub Repos
 | [PythonistaRSSReader] [11] | Super simple RSS reader for use with Pythonista |
 | [filenav] [13] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
 | [LastPass Pythonista] [16] | LastPass Python API (adapted for iOS - Pythonista) |
+| [url_cleaner][17] | Convert a short URL into the original longer version |
 
 
 GitHub Gists
@@ -25,7 +26,6 @@ GitHub Gists
 | [gistcheck][12]  |  Download or upload gists via bookmarklet and action menu      |
 | [glassboard2json][14]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][15]  |  URL shortener using is.gd      |
-| [url_cleaner][17] | Convert a short URL into the original longer version |
 
 
 [1]: https://github.com/transistor1/shellista
