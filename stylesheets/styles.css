@@ -78,7 +78,7 @@ img {
 .navbar-fixed-top .nav {
     padding: 15px 0;
 }
-.navbar {padding: 10px 0 10px 0;}
+.navbar {padding: 10px 0 0 10px;}
 
 @media(min-width:768px) {
     body {
