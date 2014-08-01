@@ -92,6 +92,12 @@ h1.title {
   border-bottom: 1px solid #e5e5e5;
   color: #555;	}
   
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+  color: #fff;	
+}
+
 .header-links {
 	float: right;
 	margin-top: 15px;
@@ -103,6 +109,11 @@ h1.title {
 }
 .header-links a:hover {
 	color: #337097;
+}
+
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  padding-bottom: 19px;
 }
 
 .sub-header {
@@ -142,16 +153,6 @@ hr {
   padding-right: 15px;
   padding-left: 15px;}
   
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-  color: #fff;	
-}
-
-/* Make the masthead heading the same height as the navigation */
-.header h3 {
-  padding-bottom: 19px;
-}
 
 /* Grid */
 .grid-container {
@@ -416,4 +417,23 @@ strong {
 
 .highlight {
   background-color: #f8f2ac;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .marketing,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+  /* Remove the bottom border on the jumbotron for visual effect */
+  .jumbotron {
+    border-bottom: 0;
+  }
 }
