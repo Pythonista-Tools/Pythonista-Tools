@@ -27,6 +27,7 @@ GitHub Gists
 | [glassboard2json][14]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][15]  |  URL shortener using is.gd      |
 | [file_downloader][18] | provide a URL to a file and this script will download it with a progress bar |
+| [MarkdownPDF][19] | converts Markdown documents to PDF directly on your iOS device |
 
 [1]: https://github.com/transistor1/shellista
 [3]: https://gist.github.com/omz/fb180c58c94526e2c40b
@@ -45,3 +46,4 @@ GitHub Gists
 [16]: https://github.com/HyShai/lastpass-pythonista
 [17]: https://github.com/HyShai/url-cleaner
 [18]: https://gist.github.com/elliospizzaman/89edf288a15fde45682a
+[19]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
