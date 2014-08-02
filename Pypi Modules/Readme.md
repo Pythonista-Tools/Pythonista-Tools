@@ -13,11 +13,8 @@ GitHub Gists
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [pipista][3]   | Pip module (for installing other modules) for Pythonista |
+| [pipista][2]   | Pip module (for installing other modules) for Pythonista |
 
 
 [1]: https://pypi.python.org/pypi
-[2]: https://github.com/briarfox/ShellistaExt
-[3]: https://gist.github.com/pudquick/4116558
-[4]: https://github.com/transistor1/shellista
-
+[2]: https://gist.github.com/pudquick/4116558
