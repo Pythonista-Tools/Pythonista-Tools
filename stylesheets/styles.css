@@ -455,5 +455,7 @@ strong {
   /* Remove the bottom border on the jumbotron for visual effect */
   .jumbotron {
     border-bottom: 0;
+    text-align: center;
+    color: #555;	
   }
 }
