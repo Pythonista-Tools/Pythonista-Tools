@@ -18,14 +18,11 @@ a {
 	text-decoration: none;
 	color: #347196;
 }
-a:hover {
-	text-decoration: underline;
-}
-img {
-  max-width: 100%;
-}
+a:hover {text-decoration: underline;}
 
-.well{color: #555;}
+img {max-width: 100%;}
+
+.well {color: #555;}
 
 @media (min-width: 768px) {
   .container {
@@ -68,14 +65,13 @@ img {
   color: #fff;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {
-  color: #777;
-}
+.navbar-inverse .navbar-nav > li > a:focus {color: #777;}
+
 .navbar-inverse .navbar-nav > .active > a {color: #777;}
+
 .navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {
-  color: #fff;
-}
+.navbar-inverse .navbar-nav > .active > a:focus {color: #fff;}
+
 .navbar {padding: 10px 0 10px 10px;}
 
 @media(min-width:768px) {
@@ -417,19 +413,6 @@ strong {
   border-style: solid;
   margin-left: 0;
   padding-left: 10px;
-}
-
-.diff del {
-  background-color: #fdb5b0;
-  color: #811209;
-  border-radius: 4px;
-}
-
-.diff ins {
-  background-color: #e0ecd4;
-  color: #50792d;
-  text-decoration: none;
-  border-radius: 4px;
 }
 
 .edited-post {
