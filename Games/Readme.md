@@ -23,6 +23,8 @@ GitHub Gists
 | [Space Invaders] [8] | Space Invaders style game  |
 | [Maze Craze] [13] | A Maze Generator/Pacman style game  |
 | [2048] [14] | A Pythonista 2048 clone, using ui module. Also should work in console in any python.  |
+| [Ripoff] [] | A Pythonista version of the vector graphics arcade game. |
+
 
 
 Custom Modules
@@ -47,3 +49,4 @@ Custom Modules
 [12]: https://github.com/git-bee/pythonista-minesweeper
 [13]: https://gist.github.com/GuyCarver/4000630
 [14]: https://gist.github.com/henryiii/0a58c7e958c1b317f64a
+[Ripoff]: https://gist.github.com/GuyCarver/4115763
