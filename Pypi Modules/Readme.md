@@ -1,4 +1,4 @@
-Tools and scripts that facilitate the downloading and importing of Python modules from the [Python Package Index][1].
+Tools and scripts that facilitate the downloading and importing of Python modules from the [Python Package Index][].
 
 GitHub Repos
 ------------
@@ -13,8 +13,8 @@ GitHub Gists
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [pipista][2]   | Pip module (for installing other modules) for Pythonista |
+| [pipista][]   | Pip module (for installing other modules) for Pythonista |
 
 
-[1]: https://pypi.python.org/pypi
-[2]: https://gist.github.com/pudquick/4116558
+[Python Package Index]: https://pypi.python.org/pypi
+[pipista]: https://gist.github.com/pudquick/4116558
