@@ -16,6 +16,7 @@ GitHub Gists
 | [getColor] []      | Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette |
 | [Diagonal Line] [] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
 | [Tilting Color] [] | A gravity hack that uses Pythonista's `scene.gravity()` method to change screen colors when the user tilts their device |
+| [easy_paint][]      | Simple canvas/sketchpad script |
 
 
 Custom Modules
@@ -35,3 +36,4 @@ Custom Modules
 [Tilting Color]: https://gist.github.com/cclauss/6349730
 [Turtle for Pythonista]: https://gist.github.com/omz/4413863
 [distinct_colors]: https://gist.github.com/upwart/ede14e200fbeeb331786
+[easy_paint]: https://gist.github.com/SebastianJarsve/5297697
