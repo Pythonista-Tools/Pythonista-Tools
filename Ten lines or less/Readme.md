@@ -2,7 +2,7 @@ Python scripts that are short but useful or interesting.
 
 GitHub Repos
 ------------
-| [z][] | Make those Windows text files more friendly |
+| [zap_carrage_returns][] | Make those Windows text files more friendly |
 
 GitHub Gists
 ------------
