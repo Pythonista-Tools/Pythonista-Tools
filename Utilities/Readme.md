@@ -10,6 +10,7 @@ GitHub Repos
 | [filenav] [] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
 | [LastPass Pythonista] [] | LastPass Python API (adapted for iOS - Pythonista) |
 | [url_cleaner][] | Convert a short URL into the original longer version |
+| [GitHubGet] | Quick script to download and unzip a repo from github |
 
 
 GitHub Gists
@@ -47,3 +48,4 @@ GitHub Gists
 [url_cleaner]: https://github.com/HyShai/url-cleaner
 [file_downloader]: https://gist.github.com/elliospizzaman/89edf288a15fde45682a
 [MarkdownPDF]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
+[GitHubGet]: https://github.com/jsbain/GitHubGet
