@@ -2,8 +2,9 @@ GitHub Repos
 ------------
 
 | Script Name        | Description   | 
-| -------------      | ------------- | 
-| [Task-List][]     | Create, read, update, and delete task lists |
+| -------------      | ------------- |
+| [ui-tutorial]      | UI Tutorial gives you a running start in using the ui module |
+| [Task-List][]      | Create, read, update, and delete task lists |
 
 GitHub Gists
 ------------
@@ -20,6 +21,7 @@ Custom Modules
 | [Hydrogen][]      | A lightweight GUI framework for Pythonista that requires [HydrogenLayouts][] and [HydrogenDemo][]|
 
 
+[ui-tutorial]: https://github.com/humberry/ui-tutorial
 [Task-List]: https://github.com/robinsiebler/Task-List
 [Hydrogen]: https://gist.github.com/BashedCrab/5924965
 [HydrogenLayouts]: https://gist.github.com/BashedCrab/6103019
