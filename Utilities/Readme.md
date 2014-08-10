@@ -10,9 +10,9 @@ GitHub Repos
 | [filenav] [] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
 | [LastPass Pythonista] [] | LastPass Python API (adapted for iOS - Pythonista) |
 | [url_cleaner][] | Convert a short URL into the original longer version |
-| [GitHubGet] | Quick script to download and unzip a repo from github |
+| [GitHubGet][] | Quick script to download and unzip a repo from github |
 | [hexviewer][] | Simple Hexviewer |
-
+| [SFTPclient][]   | Simple UI SFTPclient |
 
 GitHub Gists
 ------------
@@ -51,3 +51,4 @@ GitHub Gists
 [MarkdownPDF]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
 [GitHubGet]: https://github.com/jsbain/GitHubGet
 [hexviewer]: https://github.com/humberry/hexviewer
+[SFTPclient]: https://github.com/humberry/sftp-client
