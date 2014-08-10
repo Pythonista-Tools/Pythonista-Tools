@@ -5,11 +5,11 @@ GitHub Repos
 | -------------      | ------------- | 
 | [phue][]   | Full featured Python library to control the Philips Hue lighting system |
 | [SoCo][]   | Simple Python class that allows you to programmatically control Sonos speakers |
-| [SFTP][]   | Simple UI SFTPclient |
+| [SFTPclient][]   | Simple UI SFTPclient |
 
 GitHub Gists
 ------------
 
 [phue]: https://github.com/studioimaginaire/phue
 [SoCo]: https://github.com/SoCo/SoCo
-[SFTP]: https://github.com/humberry/sftp-client
+[SFTPclient]: https://github.com/humberry/sftp-client
