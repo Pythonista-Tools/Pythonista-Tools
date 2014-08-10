@@ -11,6 +11,7 @@ GitHub Repos
 | [LastPass Pythonista] [] | LastPass Python API (adapted for iOS - Pythonista) |
 | [url_cleaner][] | Convert a short URL into the original longer version |
 | [GitHubGet] | Quick script to download and unzip a repo from github |
+| [hexviewer][] | Simple Hexviewer |
 
 
 GitHub Gists
@@ -49,3 +50,4 @@ GitHub Gists
 [file_downloader]: https://gist.github.com/elliospizzaman/89edf288a15fde45682a
 [MarkdownPDF]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
 [GitHubGet]: https://github.com/jsbain/GitHubGet
+[hexviewer]: https://github.com/humberry/hexviewer
