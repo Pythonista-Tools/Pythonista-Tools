@@ -13,6 +13,7 @@ Paid Pythonisa-based apps
 
 | App Name           | Description   | 
 | -------------      | ------------- | 
-| [Your paid app goes here] [1] | Submit an issue to get your app added. |
+| [Stacked - Arcade Game] [] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
 
 [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
+[Stacked - Arcade Game]: https://itunes.apple.com/us/app/stacked-arcade-game/id882344011?mt=8
