@@ -1,5 +1,5 @@
-OMZ Software Apps
------------------
+Apps from OMZ Software
+----------------------
 
 | [App Name]          | Description | 
 | ------------------- | ----------- | 
