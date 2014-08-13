@@ -27,4 +27,4 @@ Paid Pythonisa-based apps
 [App Name]: http://omz-software.com
 [Pythonista]: http://omz-software.com/pythonista
 [Editorial]: http://omz-software.com/editorial
-[PDF Highlighter]: http://omz-software.com/pdf-highlighter
+[PDF Highlighter]: http://omz-software.com/highlighter
