@@ -1,7 +1,7 @@
 OMZ Software Apps
 -----------------
 
-| App Name            | Description | 
+| [App Name]          | Description | 
 | ------------------- | ----------- | 
 | [Pythonista][]      | The root of all good |
 | [Editorial][]       | Ole's other perspective on Python    |
@@ -24,6 +24,7 @@ Paid Pythonisa-based apps
 | -------------      | ------------- | 
 | [Your paid app goes here] [] | Submit an issue to get you app added. |
 
-[Pythonista]: https://itunes.apple.com/us/app/pythonista
-[Editorial]: https://itunes.apple.com/us/app/editorial
-[PDF Highlighter]: https://itunes.apple.com/us/app/pdf-highlighter
+[App Name]: http://omz-software.com
+[Pythonista]: http://omz-software.com/pythonista
+[Editorial]: http://omz-software.com/editorial
+[PDF Highlighter]: http://omz-software.com/pdf-highlighter
