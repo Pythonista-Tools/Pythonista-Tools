@@ -1,14 +1,14 @@
-### Please, only apps built using Pythonista or Editorial
+### Please, only apps built using Pythonista
 Please, [Open a new issue][1] with the name and url of your App Store app to get it added to the lists below.
 
-Free Pythonisa-based apps
+Free Pythonisa made apps
 -------------------------
 | App Name           | Description   | 
 | -------------      | ------------- | 
 | [Your free app goes here] [1] | Submit an issue to get your app added. |
 
 
-Paid Pythonisa-based apps
+Paid Pythonisa made apps
 -------------------------
 
 | App Name           | Description   | 
