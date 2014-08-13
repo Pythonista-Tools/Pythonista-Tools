@@ -32,6 +32,7 @@ GitHub Gists
 | [ShortURL][]  |  URL shortener using is.gd      |
 | [file_downloader][] | provide a URL to a file and this script will download it with a progress bar |
 | [MarkdownPDF][] | converts Markdown documents to PDF directly on your iOS device |
+| [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
 
 [Shellista]: https://github.com/transistor1/shellista
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
@@ -54,3 +55,4 @@ GitHub Gists
 [GitHubGet]: https://github.com/jsbain/GitHubGet
 [hexviewer]: https://github.com/humberry/hexviewer
 [SFTPclient]: https://github.com/humberry/sftp-client
+[indentation]: https://gist.github.com/SebastianJarsve/8e4b396a1c8a1f3f80d0
