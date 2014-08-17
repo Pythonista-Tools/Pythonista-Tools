@@ -25,7 +25,8 @@ GitHub Gists
 | [Space Invaders] [] | Space Invaders style game  |
 | [Maze Craze] [] | A Maze Generator/Pacman style game  |
 | [2048] [] | A Pythonista 2048 clone, using ui module. Also should work in console in any python.  |
-| [Ripoff] [] | A Pythonista version of the vector graphics arcade game. |
+| [Ripoff] [] | A Pythonista version of the vector graphics arcade game |
+| [Breakout Clone] [] | A clone of the popular game Breakout |
 
 
 Custom Modules
@@ -51,3 +52,4 @@ Custom Modules
 [Maze Craze]: https://gist.github.com/GuyCarver/4000630
 [2048]: https://gist.github.com/henryiii/0a58c7e958c1b317f64a
 [Ripoff]: https://gist.github.com/GuyCarver/4115763
+[Breakout Clone]: https://gist.github.com/SebastianJarsve/5305895
