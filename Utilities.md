@@ -15,6 +15,8 @@ GitHub Repos
 | [GitHubGet][] | Quick script to download and unzip a repo from github |
 | [hexviewer][] | Simple Hexviewer |
 | [SFTPclient][]   | Simple UI SFTPclient |
+| [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
+
 
 GitHub Gists
 ------------
@@ -56,3 +58,4 @@ GitHub Gists
 [hexviewer]: https://github.com/humberry/hexviewer
 [SFTPclient]: https://github.com/humberry/sftp-client
 [indentation]: https://gist.github.com/SebastianJarsve/8e4b396a1c8a1f3f80d0
+[Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
