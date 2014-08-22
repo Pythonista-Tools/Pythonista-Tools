@@ -7,7 +7,7 @@ Free Pythonisa made apps
 | -------------      | ------------- | 
 | [Wormy Drawing] [] | Wormy Drawing makes it super easy for anyone to create colourful pictures |
 | [Velocity Run] [] | Velocity Run is an original game where you tilt your device to move a red square around on the screen |
-| [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch.  |
+| [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 
 
 Paid Pythonisa made apps
