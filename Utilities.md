@@ -16,6 +16,7 @@ GitHub Repos
 | [hexviewer][] | Simple Hexviewer |
 | [SFTPclient][]   | Simple UI SFTPclient |
 | [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
+| [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
 
 
 GitHub Gists
@@ -61,3 +62,4 @@ GitHub Gists
 [indentation]: https://gist.github.com/SebastianJarsve/8e4b396a1c8a1f3f80d0
 [Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
 [github_download]: https://gist.github.com/SpotlightKid/04c2b5ce5978c0d66e6e
+[gitrepo]: https://github.com/Vik2015/gitrepo
