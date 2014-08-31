@@ -17,6 +17,7 @@ GitHub Repos
 | [SFTPclient][]   | Simple UI SFTPclient |
 | [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
+| [FileManager][]| UI FileManager |
 
 
 GitHub Gists
@@ -63,3 +64,4 @@ GitHub Gists
 [Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
 [github_download]: https://gist.github.com/SpotlightKid/04c2b5ce5978c0d66e6e
 [gitrepo]: https://github.com/Vik2015/gitrepo
+[FileManager]: https://github.com/humberry/FileManager
