@@ -7,7 +7,7 @@ GitHub Repos
 	
 | Script Name            | Description    | 
 | ---------------------- | -------------- | 
-| NLTK Installer         | We need one!!! |
+| NLTK Installer         | We **need** one!!! |
 | [Networkx Installer][] | [Networkx]     |
 
 
