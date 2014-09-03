@@ -5,9 +5,10 @@ Tools and scripts that facilitate the downloading and importing of Python module
 GitHub Repos
 ------------
 	
-| Script Name        | Description   | 
-| -------------      | ------------- | 
-| NLTK Installer    | We need one!!! |
+| Script Name            | Description    | 
+| ---------------------- | -------------- | 
+| NLTK Installer         | We need one!!! |
+| [Networkx Installer][] | [Networkx]     |
 
 
 GitHub Gists
@@ -19,4 +20,6 @@ GitHub Gists
 
 
 [Python Package Index]: https://pypi.python.org/pypi
+[Networkx]: https://pypi.python.org/pypi/networkx
+[Networkx Installer]: https://github.com/Vik2015/pythonista-installers/tree/master
 [pipista]: https://gist.github.com/pudquick/4116558
