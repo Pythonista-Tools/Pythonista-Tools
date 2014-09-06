@@ -7,8 +7,8 @@ GitHub Repos
 	
 | Script Name            | Description    | 
 | ---------------------- | -------------- | 
-| NLTK Installer         | We **need** one!!! |
-| [Networkx Installer][] | [Networkx]     |
+| [NLTK Installer][Vik2015]     | [Natural Language ToolKit] |
+| [Networkx Installer][Vik2015] | [Networkx]     |
 
 
 GitHub Gists
@@ -21,7 +21,8 @@ GitHub Gists
 
 
 [Python Package Index]: https://pypi.python.org/pypi
+[Natural Language ToolKit]: https://pypi.python.org/pypi/nltk
 [Networkx]: https://pypi.python.org/pypi/networkx
-[Networkx Installer]: https://github.com/Vik2015/pythonista-installers/tree/master
+[Vik2015]: https://github.com/Vik2015/pythonista-installers
 [pipista]: https://gist.github.com/pudquick/4116558
 [wagenheber]: https://gist.github.com/SpotlightKid/dba8f308ad99c2f5afb8
