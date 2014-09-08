@@ -8,7 +8,6 @@ Free Pythonisa made apps
 | [Wormy Drawing] [] | Wormy Drawing makes it super easy for anyone to create colourful pictures |
 | [Velocity Run] [] | Velocity Run is an original game where you tilt your device to move a red square around on the screen |
 | [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
-| [Cacti Killer] [] | How many cacti can you kill? Find out in this insanely fun and addictive game |
 
 
 Paid Pythonisa made apps
@@ -17,6 +16,7 @@ Paid Pythonisa made apps
 | App Name           | Description   | 
 | -------------      | ------------- | 
 | [Stacked - Arcade Game] [] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
+| [Cacti Killer] [] | How many cacti can you kill? Find out in this insanely fun and addictive game |
 
 
 [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
