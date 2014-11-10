@@ -34,8 +34,8 @@ GitHub Gists
 | [gistcheck][]  |  Download or upload gists via bookmarklet and action menu      |
 | [glassboard2json][]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][]  |  URL shortener using is.gd      |
-| [file_downloader][] | provide a URL to a file and this script will download it with a progress bar |
-| [MarkdownPDF][] | converts Markdown documents to PDF directly on your iOS device |
+| [file_downloader][] | Provide a URL to a file and this script will download it with a progress bar |
+| [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
 | [github_download] [] | Github file viewer / general URL download script for Pythonista |
 
