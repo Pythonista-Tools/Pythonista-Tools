@@ -19,6 +19,7 @@ GitHub Repos
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
 | [FileManager][]| UI FileManager |
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
+| [ed][]| codemirror based editor, capable of editing many file types |
 
 GitHub Gists
 ------------
@@ -66,3 +67,4 @@ GitHub Gists
 [gitrepo]: https://github.com/Vik2015/gitrepo
 [FileManager]: https://github.com/humberry/FileManager
 [gitview]: https://github.com/jsbain/gitview
+[ed]: https://github.com/jsbain/ed
