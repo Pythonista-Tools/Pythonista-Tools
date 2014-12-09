@@ -22,7 +22,11 @@ Custom Modules
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Hydrogen][]      | A lightweight GUI framework for Pythonista that requires [HydrogenLayouts][] and [HydrogenDemo][]|
-
+| [uicomponents][]     | various specialized ui components |
+| [zoomview][]     | pinch zoomable window example  |
+| [tabbedview][]     | view with tabs that switch subview |
+| [touchdispatcher][]     | intercept touch events before sending to subviews|
+| [proplistener][]     | observe changes in ui properties, and take action|
 
 [PackUI]: https://github.com/dgelessus/pythonista-scripts/blob/master/PackUI.py
 [Task-List]: https://github.com/robinsiebler/Task-List
@@ -31,3 +35,8 @@ Custom Modules
 [Hydrogen]: https://gist.github.com/BashedCrab/5924965
 [HydrogenLayouts]: https://gist.github.com/BashedCrab/6103019
 [HydrogenDemo]: https://gist.github.com/BashedCrab/5953776
+[uicomponents]: https://github.com/jsbain/uicomponents
+[zoomview]: https://gist.github.com/jsbain/6e4e406b07f52a68d961
+[touchdispatcher]: https://gist.github.com/jsbain/1cf350e92bb5f59706ca
+[tabbedview]: https://gist.github.com/jsbain/fcadaffff4be09c4ec78
+[proplistener]: https://gist.github.com/jsbain/87cf25db0d3f1b16c512
