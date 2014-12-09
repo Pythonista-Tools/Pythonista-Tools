@@ -18,7 +18,7 @@ GitHub Repos
 | [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
 | [FileManager][]| UI FileManager |
-
+| [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 
 GitHub Gists
 ------------
@@ -65,3 +65,4 @@ GitHub Gists
 [github_download]: https://gist.github.com/SpotlightKid/04c2b5ce5978c0d66e6e
 [gitrepo]: https://github.com/Vik2015/gitrepo
 [FileManager]: https://github.com/humberry/FileManager
+[gitview]: https://github.com/jsbain/gitview
