@@ -6,6 +6,7 @@ GitHub Repos
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Shellista][]      | iOS Shell Written for Pythonista |
+| [StaSh][] | Another shell, with ui, thread support, tab completion, etc|
 | [editmenu] [] | Pythonista editor sidebar utilities |
 | [Snakeyes] [] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader] [] | Super simple RSS reader for use with Pythonista |
@@ -68,3 +69,4 @@ GitHub Gists
 [FileManager]: https://github.com/humberry/FileManager
 [gitview]: https://github.com/jsbain/gitview
 [ed]: https://github.com/jsbain/ed
+[StaSh]: http://github.com/ywangd/stash
