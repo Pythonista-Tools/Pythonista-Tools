@@ -7,14 +7,18 @@ GitHub Repos
 | -------------      | ------------- |
 | [PackUI]           | Package a .py script and its .pyui file into a self-extracting bundle |
 | [Task-List][]      | Create, read, update, and delete task lists |
-| [ui-tutorial]      | UI Tutorial gives you a running start in using the ui module |
+| [ui-tutorial][]    | UI Tutorial gives you a running start in using the ui module |
+| [uicomponents][]   | Various specialized ui components |
 
 GitHub Gists
 ------------
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Nav view example][]     | An example on how to use the nav view |
-
+| [proplistener][]     | Observe changes in ui properties, and take action|
+| [zoomview][]     | Pinch zoomable window example  |
+| [tabbedview][]     | View with tabs that switch subview |
+| [touchdispatcher][]     | Intercept touch events before sending to subviews|
 
 Custom Modules
 ------------
@@ -22,11 +26,6 @@ Custom Modules
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Hydrogen][]      | A lightweight GUI framework for Pythonista that requires [HydrogenLayouts][] and [HydrogenDemo][]|
-| [uicomponents][]     | various specialized ui components |
-| [zoomview][]     | pinch zoomable window example  |
-| [tabbedview][]     | view with tabs that switch subview |
-| [touchdispatcher][]     | intercept touch events before sending to subviews|
-| [proplistener][]     | observe changes in ui properties, and take action|
 
 [PackUI]: https://github.com/dgelessus/pythonista-scripts/blob/master/PackUI.py
 [Task-List]: https://github.com/robinsiebler/Task-List
