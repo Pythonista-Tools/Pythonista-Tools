@@ -7,7 +7,7 @@ GitHub Repos
 	
 | Script Name                        | Description                | 
 | ---------------------------------- | -------------------------- | 
-| [Networkx Installer][Vik2015].     | [Networkx]                 |
+| [Networkx Installer][Vik2015]      | [Networkx]                 |
 | [NLTK Installer][Vik2015]          | [Natural Language ToolKit] |
 | [Pychievements Installer][Vik2015] | [Pychievements]            |
 
