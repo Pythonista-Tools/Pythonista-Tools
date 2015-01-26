@@ -156,24 +156,4 @@ hr {
 .footer {
   padding-right: 15px;
   padding-left: 15px;}
-  
-/* Header Image Background */
-
-.business-header {
-    height: 300px;
-    background: url('../images/newheader.png') center center no-repeat scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.tagline {
-    text-shadow: 0 0 10px #000;
-    color: #fff;
-}
-
-.img-center {
-    margin: 0 auto;
-}
 
