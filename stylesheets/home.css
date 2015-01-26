@@ -160,7 +160,6 @@ hr {
 /* Header Image Background */
 
 .business-header {
-    height: 300px;
     text-indent: -9999px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -168,7 +167,3 @@ hr {
     -o-background-size: cover;
 }
 
-.tagline {
-    text-shadow: 0 0 10px #000;
-    color: #fff;
-}
