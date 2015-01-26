@@ -160,8 +160,8 @@ hr {
 /* Header Image Background */
 
 .business-header {
-    height: 400px;
-    background: url('images/newheader.png') center center no-repeat scroll;
+    height: 300px;
+    background: url('../images/newheader.png') center center no-repeat scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
