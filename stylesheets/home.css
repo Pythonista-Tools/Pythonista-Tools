@@ -154,13 +154,3 @@ hr {
 .header, .marketing, .footer {
   padding-right: 15px;
   padding-left: 15px;}
-  
-/* Header Image Background */
-
-.business-header {
-    text-indent: -9999px;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
