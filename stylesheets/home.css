@@ -151,9 +151,7 @@ hr {
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
-.marketing,
-.footer {
+.header, .marketing, .footer {
   padding-right: 15px;
   padding-left: 15px;}
   
@@ -166,4 +164,3 @@ hr {
     background-size: cover;
     -o-background-size: cover;
 }
-
