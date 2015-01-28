@@ -21,6 +21,7 @@ GitHub Repos
 | [FileManager][]| UI FileManager |
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [ed][]| codemirror based editor, capable of editing many file types |
+| [youtube-dl][]| download videos from youtube.com or other video platforms |
 
 GitHub Gists
 ------------
@@ -70,3 +71,4 @@ GitHub Gists
 [gitview]: https://github.com/jsbain/gitview
 [ed]: https://github.com/jsbain/ed
 [StaSh]: http://github.com/ywangd/stash
+[youtube-dl]: https://github.com/HyShai/youtube-dl
