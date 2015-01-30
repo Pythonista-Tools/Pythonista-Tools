@@ -41,6 +41,7 @@ GitHub Gists
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
 | [github_download] [] | Github file viewer / general URL download script for Pythonista |
+| [fmath] [] | Advanced functional math module      |
 
 [Shellista]: https://github.com/transistor1/shellista
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
@@ -73,3 +74,4 @@ GitHub Gists
 [StaSh]: http://github.com/ywangd/stash
 [youtube-dl]: https://github.com/HyShai/youtube-dl
 [YouTube]: http://youtube.com
+[fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
