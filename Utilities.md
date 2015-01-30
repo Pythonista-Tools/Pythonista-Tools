@@ -42,6 +42,7 @@ GitHub Gists
 | [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
 | [github_download] [] | Github file viewer / general URL download script for Pythonista |
 | [fmath] [] | Advanced functional math module      |
+| [Module grabber] [] | Get the sourcecode of a non-builtin module |
 
 [Shellista]: https://github.com/transistor1/shellista
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
@@ -75,3 +76,4 @@ GitHub Gists
 [youtube-dl]: https://github.com/HyShai/youtube-dl
 [YouTube]: http://youtube.com
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
+[Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
