@@ -22,6 +22,7 @@ GitHub Repos
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [ed][]| Codemirror based editor, capable of editing many file types |
 | [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
+| [SMBclient][]| UI tool to access Samba/Windows-Shares |
 
 GitHub Gists
 ------------
@@ -77,3 +78,4 @@ GitHub Gists
 [YouTube]: http://youtube.com
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
+[SMBclient]: https://github.com/humberry/SMBclient
