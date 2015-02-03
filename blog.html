@@ -8,10 +8,10 @@
 
 	<!-- Latest compiled and minified Bootstrap CSS -->
 	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-	
+
 	<!-- Custom Styles -->
     <link rel="stylesheet" href="stylesheets/styles.css">
-    
+
     <!-- Font Awesome -->
 	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -19,10 +19,10 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
-    
+
   </head>
   <body>
-  
+
   <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
   <div class="container-fluid">
     <!-- Brand and toggle get grouped for better mobile display -->
@@ -58,22 +58,29 @@
   </div><!-- /.container-fluid -->
 </div>
 
-   
+
     <div class="container">
 
-	<p>Our blog is coming soon.</p>
+      <ul>
+        {% for post in site.posts %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
+          {{ post.excerpt }}
+        </li>
+        {% endfor %}
+      </ul>
 
 	<div class="footer">
         <p class="text-muted">This project is maintained by <a href="https://github.com/Pythonista-Tools">Pythonista-Tools.</a></p>
     </div>
 
     </div> <!-- /container -->
-    
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 
 	<!-- Latest compiled and minified JavaScript -->
-	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script> 
-		
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+
 	</body>
 </html>
