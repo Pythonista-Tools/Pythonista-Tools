@@ -8,10 +8,13 @@ GitHub Repos
 | [phue][]       | Full featured Python library to control the Philips Hue lighting system |
 | [SoCo][]       | Simple Python class that allows you to programmatically control Sonos speakers |
 | [upnp_tools][] | Discover [Universal Plug-n-Play][] (UPnP) devices on your LAN |
-| [WeMo][]       | Control a local WeMo switch |
 
 GitHub Gists
 ------------
+
+| Script Name        | Description   | 
+| -------------      | ------------- | 
+| [WeMo][]       | Control a local WeMo switch |
 
 [phue]: https://github.com/studioimaginaire/phue
 [SoCo]: https://github.com/SoCo/SoCo
