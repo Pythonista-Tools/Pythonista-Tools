@@ -7,7 +7,7 @@ GitHub Repos
 | -------------      | ------------- | 
 | [phue][]   | Full featured Python library to control the Philips Hue lighting system |
 | [SoCo][]   | Simple Python class that allows you to programmatically control Sonos speakers |
-| [upnp_tools][] | Discover Universal Plug-n-Play (UPnP) devices on your LAN |
+| [upnp_tools][] | Discover [Universal Plug-n-Play][] (UPnP) devices on your LAN |
 
 GitHub Gists
 ------------
@@ -15,3 +15,4 @@ GitHub Gists
 [phue]: https://github.com/studioimaginaire/phue
 [SoCo]: https://github.com/SoCo/SoCo
 [upnp_tools]: https://github.com/cclauss/upnp_tools
+[Universal Plug-n-Play]: http://en.m.wikipedia.org/wiki/Universal_Plug_and_Play
