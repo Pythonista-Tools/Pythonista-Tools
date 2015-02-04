@@ -1,5 +1,6 @@
 ---
 title: Testing
+permalink: /blog/testing.html
 ---
 
 # Testing
