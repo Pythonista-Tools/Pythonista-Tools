@@ -1,7 +1,7 @@
 ---
 title: Testing
 layout: post
-permalink: /blog/testing.html
+permalink: Pythonista-Tools/blog/testing.html
 ---
 
 # Testing
