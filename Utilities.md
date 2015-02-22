@@ -18,7 +18,7 @@ GitHub Repos
 | [SFTPclient][]   | Simple UI SFTPclient |
 | [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
-| [FileManager][]| UI FileManager |
+| [PhoneManager][]| UI FileManager |
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [ed][]| Codemirror based editor, capable of editing many file types |
 | [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
@@ -70,7 +70,7 @@ GitHub Gists
 [Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
 [github_download]: https://gist.github.com/SpotlightKid/04c2b5ce5978c0d66e6e
 [gitrepo]: https://github.com/Vik2015/gitrepo
-[FileManager]: https://github.com/humberry/FileManager
+[PhoneManager]: https://github.com/humberry/PhoneManager
 [gitview]: https://github.com/jsbain/gitview
 [ed]: https://github.com/jsbain/ed
 [StaSh]: http://github.com/ywangd/stash
