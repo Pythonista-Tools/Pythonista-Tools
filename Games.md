@@ -4,10 +4,11 @@ GitHub Repos
 ------------
 
 | Script Name        | Description   | 
-| -------------      | ------------- | 
-| [Minesweeper] []      | Minesweeper game for Pythonista |
-|       |  [Minesweeper with additional features] []     | 
-| [Cloud Jump 2] [] | Additional features from the original [Cloud Jump] []  |
+| ------------------ | ------------- | 
+| [Minesweeper] []   | Minesweeper game for Pythonista |
+|                    |  [Minesweeper with additional features] [] | 
+| [Cloud Jump 2] []  | Additional features from the original [Cloud Jump] [] |
+| [Phantom Chess] [] | Phantom Chess |
 
 
 GitHub Gists
@@ -32,9 +33,9 @@ GitHub Gists
 Custom Modules
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
-| [High-Scores] []      | Module to save players' high score in games |
+| Script Name      | Description | 
+| ---------------- | ----------- | 
+| [High-Scores] [] | Module to save players' high score in games |
 
 
 [Air Hockey]: https://gist.github.com/gillibrand/3271073
@@ -53,3 +54,4 @@ Custom Modules
 [2048]: https://gist.github.com/henryiii/0a58c7e958c1b317f64a
 [Ripoff]: https://gist.github.com/GuyCarver/4115763
 [Breakout Clone]: https://gist.github.com/SebastianJarsve/5305895
+[Phantom Chess]: https://github.com/671620616/PhantomChess
