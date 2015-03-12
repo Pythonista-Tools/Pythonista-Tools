@@ -3,9 +3,10 @@
 GitHub Repos
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
-| [photo_text][]      | Script to add one line of text to a photo |
+| Script Name               | Description | 
+| ------------------------- | ----------- | 
+| [photo_text][]            | Script to add one line of text to a photo |
+| [Pythonista Pixel Editor] | A simple pixel art editor for Pythonista |
 
 
 GitHub Gists
@@ -31,6 +32,7 @@ Custom Modules
 
 
 [photo_text]: https://github.com/humberry/photo_text
+[Pythonista Pixel Editor]: https://github.com/SebastianJarsve/Pythonista-Pixel-Editor
 [EXIF]: https://gist.github.com/PyDann/2ae90ccadab4c2133766
 [ShowLastPhotoMap]: https://gist.github.com/omz/8838751
 [getColor]: https://gist.github.com/cclauss/8169809
