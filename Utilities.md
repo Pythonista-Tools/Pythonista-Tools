@@ -23,6 +23,7 @@ GitHub Repos
 | [ed][]| Codemirror based editor, capable of editing many file types |
 | [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
 | [SMBclient][]| UI tool to access Samba/Windows-Shares |
+| [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone|
 
 GitHub Gists
 ------------
@@ -79,3 +80,4 @@ GitHub Gists
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
 [SMBclient]: https://github.com/humberry/SMBclient
+[PhoneSMB]: https://github.com/humberry/PhoneSMB
