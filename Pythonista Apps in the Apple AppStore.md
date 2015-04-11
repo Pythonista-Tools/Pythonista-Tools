@@ -1,7 +1,7 @@
 ### Please, only apps built using Pythonista
 Please, [Open a new issue][1] with the name and url of your App Store app to get it added to the lists below.
 
-Free Pythonisa made apps
+Free Pythonista made apps
 -------------------------
 | App Name           | Description   | 
 | -------------      | ------------- | 
@@ -10,7 +10,7 @@ Free Pythonisa made apps
 | [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 
 
-Paid Pythonisa made apps
+Paid Pythonista made apps
 -------------------------
 
 | App Name           | Description   | 
