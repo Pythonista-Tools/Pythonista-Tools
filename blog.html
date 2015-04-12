@@ -61,13 +61,15 @@
 </div>
 
     <div class="container">
-<ul>
-        <li>
+       <ul>
+         {% for post in site.posts %}
+         <li>
+          <a href="{{ post.url }}">{{ post.title }}</a>
           <a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a>
-          {{ post.excerpt }}
-        </li>
-        {% endfor %}
-      </ul>
+           {{ post.excerpt }}
+         </li>
+         {% endfor %}
+
 
 
 	<div class="footer">
