@@ -22,6 +22,7 @@ GitHub Repos
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [ed][]| Codemirror based editor, capable of editing many file types |
 | [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
+| [youtube-dl downloader] | Downloads and installs youtube-dl |
 | [SMBclient][]| UI tool to access Samba/Windows-Shares |
 | [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone|
 
@@ -76,6 +77,7 @@ GitHub Gists
 [ed]: https://github.com/jsbain/ed
 [StaSh]: http://github.com/ywangd/stash
 [youtube-dl]: https://github.com/HyShai/youtube-dl
+[youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
 [YouTube]: http://youtube.com
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
