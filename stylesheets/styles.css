@@ -170,3 +170,7 @@ hr {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
+
+.no-bullets {
+    list-style-type: none;
+}
