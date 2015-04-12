@@ -7,7 +7,6 @@ Free Pythonista made apps
 | -------------      | ------------- | 
 | [Wormy Drawing] [] | Wormy Drawing makes it super easy for anyone to create colourful pictures |
 | [Velocity Run] [] | Velocity Run is an original game where you tilt your device to move a red square around on the screen |
-| [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 | [Cacti Killer] [] | How many cacti can you kill? Find out in this insanely fun and addictive game |
 
 
@@ -15,7 +14,8 @@ Paid Pythonista made apps
 -------------------------
 
 | App Name           | Description   | 
-| -------------      | ------------- | 
+| -------------      | ------------- |
+| [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 | [Stacked - Arcade Game] [] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
 
 
