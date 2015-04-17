@@ -8,6 +8,7 @@ Here is the Jekyll Front Matter (YAML) format all blog posts MUST include before
 title: [Capitalized post title]
 layout: post
 permalink: /blog/[Lowercase post title excluding spaces].html
+author: [Your GitHub username]
 ---
 ```
 If blog posts do not follow these guidelines, they will probably not be accessable from the public website. And even if they are, navigating the blog as a whole will be an inconsistent and confusing experience for viewers.
