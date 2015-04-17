@@ -65,11 +65,11 @@
          {% for post in site.posts %}
          <li>
           <h2><a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a></h2>
+          <p class="text-muted">{{ post.date }}</p>
            {{ post.excerpt }}
          </li>
          {% endfor %}
 </ul>
-
 
 	<div class="footer">
         <p class="text-muted">This project is maintained by <a href="https://github.com/Pythonista-Tools">Pythonista-Tools.</a></p>
