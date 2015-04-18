@@ -8,11 +8,13 @@
 }
 body {
 	background-color: #313d4e;
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 	font-family: "Source Sans Pro", helvetica, arial;
 	font-weight: 100;
 	font-size: 18px;
 	color: #fff;	
+	margin: 0;
+	
 }
 a {
 	text-decoration: none;
@@ -26,7 +28,7 @@ img {max-width: 100%;}
 
 @media (min-width: 768px) {
   .container {
-    max-width: 730px;
+    max-width: 1000px;
   }
 }
 
