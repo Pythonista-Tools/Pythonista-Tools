@@ -65,7 +65,9 @@
          {% for post in site.posts %}
          <li>
           <h2><a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a></h2>
-          <p class="text-muted">By {{ post.author }} | {{ post.date | date_to_string }}</p>
+          <p class="lead">by {{ post.author }}</p>
+          <p><i class="fa fa-calendar"></i> Posted on {{ post.date | date_to_string }}</p>
+          <hr>
            {{ post.excerpt }}
          </li>
          {% endfor %}
