@@ -46,6 +46,7 @@ GitHub Gists
 | [github_download] [] | Github file viewer / general URL download script for Pythonista |
 | [fmath] [] | Advanced functional math module      |
 | [Module grabber] [] | Get the sourcecode of a non-builtin module |
+| [Repo downloader] [] | Download any repo, from anyone |
 
 [Shellista]: https://github.com/transistor1/shellista
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
@@ -83,3 +84,4 @@ GitHub Gists
 [Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
 [SMBclient]: https://github.com/humberry/SMBclient
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
+[Repo downloader]: https://gist.github.com/671620616/3e04758185af8f98bf72
