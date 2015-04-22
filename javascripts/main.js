@@ -7,8 +7,32 @@ $('#scripts').sheetrock({
   url: mySpreadsheet
 });
 
-// Load top ten switch hitters.
+// Load games.
 $('#games').sheetrock({
   url: mySpreadsheet,
-  sql: "select A,B,C,D,E,F where F = 'Games' order by B desc"
+  sql: "select B,C,D,E,F where F = 'Games' order by B desc"
+});
+
+// Load Graphics.
+$('#graphics').sheetrock({
+  url: mySpreadsheet,
+  sql: "select B,C,D,E,F where F = 'Graphics' order by B desc"
+});
+
+// Load Internet of Things.
+$('#internet').sheetrock({
+  url: mySpreadsheet,
+  sql: "select B,C,D,E,F where F = 'Internet of Things' order by B desc"
+});
+
+// Load PyPI.
+$('#pypi').sheetrock({
+  url: mySpreadsheet,
+  sql: "select B,C,D,E,F where F = 'PyPI' order by B desc"
+});
+
+// Load Sounds.
+$('#sounds').sheetrock({
+  url: mySpreadsheet,
+  sql: "select B,C,D,E,F where F = 'Sounds' order by B desc"
 });
