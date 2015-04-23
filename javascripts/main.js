@@ -1,10 +1,10 @@
 // Define spreadsheet URL.
-var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1ERW9nHeg7N91eZC4BNCJjA8jsh5yRjxkahuMAE38DPY/edit?usp=sharing
-';
+var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/ccc?key=1ERW9nHeg7N91eZC4BNCJjA8jsh5yRjxkahuMAE38DPY#gid=0';
 
 // Load the entire sheet.
 $('#scripts').sheetrock({
-  url: mySpreadsheet
+  url: mySpreadsheet,
+  sql: "select B,C,D,F",
 });
 
 // Load games.
