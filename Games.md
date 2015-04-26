@@ -9,6 +9,7 @@ GitHub Repos
 |                    |  [Minesweeper with additional features] [] | 
 | [Cloud Jump 2] []  | Additional features from the original [Cloud Jump] [] |
 | [Phantom Chess] [] | Phantom Chess |
+| [learn-math] [] | A game to learn basic math skills |
 
 
 GitHub Gists
@@ -55,3 +56,4 @@ Custom Modules
 [Ripoff]: https://gist.github.com/GuyCarver/4115763
 [Breakout Clone]: https://gist.github.com/SebastianJarsve/5305895
 [Phantom Chess]: https://github.com/671620616/PhantomChess
+[learn-math]: https://github.com/blmacbeth/learn-math
