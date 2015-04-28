@@ -51,7 +51,7 @@
     <div class="container">
     
       <h1 class="post-title text-center">{{ page.title }}</h1>
-      <span class="post-date text-center">By {{ page.author }} | {{ page.date | date_to_string }}</span>
+      <span class="post-date text-center">By <a href="https://github.com/{{ page.author }}">{{ page.author }}</a> | {{ page.date | date_to_string }}</span>
       <br>
       {{ content }}
 
