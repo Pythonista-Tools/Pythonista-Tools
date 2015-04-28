@@ -58,10 +58,9 @@ img {max-width: 100%;}
 .navbar-inverse .navbar-nav > .active > a {color: #777; background-color: #fff;}
 
 .navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {color: #fff;}
+.navbar-inverse .navbar-nav > .active > a:focus {color: #777; background-color: #fff; pointer-events: none; cursor: default}
 
 .navbar {padding: 10px 0 10px 10px;}
-
 
 @media(min-width:768px) {
     body {
