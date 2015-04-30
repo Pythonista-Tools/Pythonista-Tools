@@ -54,6 +54,20 @@
       <span class="post-date text-center">By <a href="https://github.com/{{ page.author }}">{{ page.author }}</a> | {{ page.date | date_to_string }}</span>
       <br>
       {{ content }}
+      
+      <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES * * */
+    var disqus_shortname = 'pythonistatoolsblog';
+    
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
 
       <div class="footer">
         <p class="text-muted">This project is maintained by <a href="https://github.com/Pythonista-Tools">Pythonista-Tools.</a></p>
