@@ -12,3 +12,8 @@ Questions on how to download scripts?
 ------------
 
 Pythonista Tools is currently just a collection of links to different projects made in Pythonista, so if there is something you want to download, go to its link and follow the instructions the project itself provides. If no instructions can be found at the project’s homepage, try asking about it on the [Pythonista forums](http://omz-forums.appspot.com/pythonista).
+
+License
+------------
+
+Pythonista Tools uses the Apache License v2.0.
