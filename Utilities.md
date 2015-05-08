@@ -3,10 +3,10 @@
 GitHub Repos
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
-| [Shellista][]      | iOS Shell Written for Pythonista |
-| [StaSh][] | Another shell, with ui, thread support, tab completion, etc|
+| Script Name   | Description   | 
+| ------------- | ------------- | 
+| [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
+| [Shellista][] | Another iOS Shell Written for Pythonista |
 | [editmenu] [] | Pythonista editor sidebar utilities |
 | [Snakeyes] [] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader] [] | Super simple RSS reader for use with Pythonista |
@@ -24,7 +24,8 @@ GitHub Repos
 | [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
 | [youtube-dl downloader] | Downloads and installs youtube-dl |
 | [SMBclient][]| UI tool to access Samba/Windows-Shares |
-| [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone|
+| [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone |
+| [blok][] |  Static website generator for Pythonista + Editor |
 
 GitHub Gists
 ------------
@@ -85,3 +86,4 @@ GitHub Gists
 [SMBclient]: https://github.com/humberry/SMBclient
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
 [Repo downloader]: https://gist.github.com/671620616/3e04758185af8f98bf72
+[blok]: https://github.com/solarfl4re/blok
