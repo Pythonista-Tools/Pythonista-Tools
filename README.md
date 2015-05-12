@@ -16,4 +16,4 @@ Pythonista Tools is currently just a collection of links to different projects m
 License
 ------------
 
-Pythonista Tools uses the Apache License v2.0.
+Pythonista Tools uses the Apache License v2.0.  This license applies only to the content of this repo, NOT to the content of other repos and gists that are linked to from this repo. All projects that are linked to are strictly governed by their own license terms.
