@@ -10,6 +10,8 @@ GitHub Repos
 | [Cloud Jump 2] []  | Additional features from the original [Cloud Jump] [] |
 | [Phantom Chess] [] | Phantom Chess |
 | [learn-math] [] | A game to learn basic math skills |
+| [Tic Tac Toe] [] | Tic tac toe game using UI |
+| [rps] [] | Rock, paper, scissors game using UI |
 
 
 GitHub Gists
@@ -30,8 +32,6 @@ GitHub Gists
 | [Ripoff] [] | A Pythonista version of the vector graphics arcade game |
 | [Breakout Clone] [] | A clone of the popular game Breakout |
 | [Impossiball Clone] [] | Featuring MultiScene |
-| [Tic Tac Toe] [] | Tic tac toe game using UI |
-| [rps] [] | Rock, paper, scissors game using UI |
 
 Custom Modules
 ------------
