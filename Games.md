@@ -29,8 +29,9 @@ GitHub Gists
 | [2048] [] | A Pythonista 2048 clone, using ui module. Also should work in console in any python.  |
 | [Ripoff] [] | A Pythonista version of the vector graphics arcade game |
 | [Breakout Clone] [] | A clone of the popular game Breakout |
-| [Impossiball Clone] [] | featuring MultiScene |
-
+| [Impossiball Clone] [] | Featuring MultiScene |
+| [Tic Tac Toe] [] | Tic tac toe game using UI |
+| [rps] [] | Rock, paper, scissors game using UI |
 
 Custom Modules
 ------------
@@ -59,3 +60,5 @@ Custom Modules
 [Phantom Chess]: https://github.com/671620616/PhantomChess
 [learn-math]: https://github.com/blmacbeth/learn-math
 [Impossiball Clone]: https://gist.github.com/SebastianJarsve/5809279
+[Tic Tac Toe]: https://github.com/tjferry14/Pythonista-UI-Games
+[rps]: https://github.com/tjferry14/Pythonista-UI-Games
