@@ -58,25 +58,6 @@ h1.title {
   border-bottom: 1px solid #e5e5e5;
   color: #555;}
   
-/* Custom page header */
-.header {
-  border-bottom: 1px solid #e5e5e5;
-  padding-bottom: 19px;
-  color: #fff;	
-}
-
-.header-links {
-	float: right;
-	margin-top: 15px;
-	margin-right: 20px;
-	color: #999;
-}
-.header-links a {
-	color: #999;
-}
-.header-links a:hover {
-	color: #337097;
-}
 
 .sub-header {
 	clear: both;
