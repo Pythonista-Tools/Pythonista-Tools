@@ -16,6 +16,7 @@ body {
 }
 
 .home hr {width: 200px;}
+.home h1 {font-size: 90px; font-weight: 600;}
 
 a {text-decoration: none;}
 a:hover {text-decoration: underline;}
