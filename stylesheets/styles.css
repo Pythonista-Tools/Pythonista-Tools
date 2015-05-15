@@ -15,9 +15,7 @@ body {
 	
 }
 
-.home hr {
-    border-width: 20px;
-}
+.home hr {width: 20px;}
 
 a {text-decoration: none;}
 a:hover {text-decoration: underline;}
