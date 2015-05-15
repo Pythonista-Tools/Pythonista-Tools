@@ -15,8 +15,7 @@ body {
 	
 }
 
-.jumbotron-home hr {
-    max-width: 50px;
+.home hr {
     border-width: 20px;
 }
 
