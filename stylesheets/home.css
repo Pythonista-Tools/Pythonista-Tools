@@ -8,7 +8,7 @@
 }
 body {
 	background-color: #313d4e;
-    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+        padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 	font-family: "Source Sans Pro", helvetica, arial;
 	font-weight: 100;
 	font-size: 18px;
@@ -28,45 +28,6 @@ img {max-width: 1400px;}
   .container {
     max-width: 730px;
   }
-}
-
-.navbar-inverse {background-color: #ffffff; border: none;}
-
-.navbar-inverse .navbar-brand {
-  color: #000;
-  padding: 10px 0 0 10px;
-  font-size: 40px;
-}
-.navbar-inverse .navbar-brand:hover,
-.navbar-inverse .navbar-brand:focus {
-  color: #777;
-  background-color: transparent;
-}
-.navbar-inverse .navbar-text {
-  color: #000;
-}
-.navbar-inverse .navbar-nav > li > a {
-  color: #000;
-}
-
-.navbar-inverse .navbar-nav > li > a:hover,
-.navbar-inverse .navbar-nav > li > a:focus {color: #777;}
-
-.navbar-inverse .navbar-nav > .active > a {color: #777; background-color: #fff;}
-
-.navbar-inverse .navbar-nav > .active > a:hover,
-.navbar-inverse .navbar-nav > .active > a:focus {color: #fff;}
-
-.navbar {padding: 10px 0 10px 10px;}
-
-@media(min-width:768px) {
-    body {
-        padding-top: 62px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
-    }
-
-    .navbar-fixed-top .navbar-brand {
-        padding: 15px 0;
-	}
 }
 
 /* Custom page footer */
