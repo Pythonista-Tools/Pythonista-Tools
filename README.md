@@ -1,5 +1,5 @@
 # Pythonista Tools  
-## Blog  
+## Blog Posts
 Blog posts should be written in Markdown and are processed by Jekyll. Therefore, they should be located inside the ```_posts``` directory. All post assets should be located in the ```assets``` directory and be referenced in the Markdown posts using this format: ```{{ site.url }}/assets/[Asset file name with extension]```. Also, **blog posts must use the Jekyll file naming scheme or they will not show up in the post index**. The format is as follows: ```[Year]-[Month]-[Day]-[Title].md```.  
   
 Here is the Jekyll Front Matter (YAML) format all blog posts MUST include before anything else:  
