@@ -20,6 +20,7 @@ GitHub Gists
 | [Diagonal Line] [] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
 | [easy_paint][]      | Simple canvas/sketchpad script |
 | [post_flickr_instagram] []      | Post to Flickr then squarify photo without cropping and post to Instagram in one step |
+| [squarify][]      | Squarify any photo (landscape or portrait) - adds white space instead of cropping to make square and then open up Instagram to post |
 
 Custom Modules
 ------------
@@ -42,3 +43,4 @@ Custom Modules
 [distinct_colors]: https://gist.github.com/upwart/ede14e200fbeeb331786
 [easy_paint]: https://gist.github.com/SebastianJarsve/5297697
 [post_flickr_instagram]: https://gist.github.com/jamesacampbell/0d3ba1f1323f8fecc3ab
+[squarify]: https://gist.github.com/jamesacampbell/11242170
