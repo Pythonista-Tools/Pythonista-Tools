@@ -19,7 +19,7 @@ GitHub Gists
 | [getColor] []      | Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette |
 | [Diagonal Line] [] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
 | [easy_paint][]      | Simple canvas/sketchpad script |
-
+| [post_flickr_instagram] []      | Post to Flickr then squarify photo without cropping and post to Instagram in one step |
 
 Custom Modules
 ------------
@@ -41,3 +41,4 @@ Custom Modules
 [Turtle for Pythonista]: https://gist.github.com/omz/4413863
 [distinct_colors]: https://gist.github.com/upwart/ede14e200fbeeb331786
 [easy_paint]: https://gist.github.com/SebastianJarsve/5297697
+[post_flickr_instagram]: https://gist.github.com/jamesacampbell/0d3ba1f1323f8fecc3ab
