@@ -23,6 +23,7 @@ GitHub Repos
 | [SMBclient][]| UI tool to access Samba/Windows-Shares |
 | [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone |
 | [blok][] |  Static website generator for Pythonista + Editor |
+| [HTMLEditor Pythonista][] |  A basic html editor for Pythonista |
 
 GitHub Gists
 ------------
@@ -75,3 +76,4 @@ GitHub Gists
 [SMBclient]: https://github.com/humberry/SMBclient
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
 [blok]: https://github.com/solarfl4re/blok
+[HTMLEditor Pythonista]: https://github.com/Cethric/HTMLEditor-Pythonista/
