@@ -24,6 +24,7 @@ GitHub Repos
 | [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone |
 | [blok][] |  Static website generator for Pythonista + Editor |
 | [HTMLEditor Pythonista][] |  A basic html editor for Pythonista |
+| [mail-me-mah-code][] |  A python utility that takes makes a .zip file of your project and emails it to your specified recipient |
 
 GitHub Gists
 ------------
@@ -77,3 +78,4 @@ GitHub Gists
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
 [blok]: https://github.com/solarfl4re/blok
 [HTMLEditor Pythonista]: https://github.com/Cethric/HTMLEditor-Pythonista/
+[mail-me-mah-code]: https://www.github.com/MCS-Kaijin/mail-me-mah-code
