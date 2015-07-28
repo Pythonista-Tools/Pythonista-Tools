@@ -23,17 +23,9 @@ body {
     padding: 120px 0;
 }
 
-.headline h1 {
-    font-size: 100px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
-}
+.headline h1 {font-size: 60px;}
 
-.headline h2 {
-    font-size: 50px;
-    background: #fff;
-    background: rgba(255,255,255,0.9);
-}
+.headline h2 {font-size: 20px;}
 
 .featurette-divider {
     margin: 80px 0;
