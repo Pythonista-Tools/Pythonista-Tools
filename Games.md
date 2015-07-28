@@ -12,7 +12,7 @@ GitHub Repos
 | [learn-math] [] | A game to learn basic math skills |
 | [Tic Tac Toe] [] | Tic tac toe game using UI |
 | [rps] [] | Rock, paper, scissors game using UI |
-
+| [PocketYoukai] [] | A minimalistic, text-based RPG using Pythonista's Scene module |
 
 GitHub Gists
 ------------
@@ -62,3 +62,4 @@ Custom Modules
 [Impossiball Clone]: https://gist.github.com/SebastianJarsve/5809279
 [Tic Tac Toe]: https://github.com/tjferry14/Pythonista-UI-Games
 [rps]: https://github.com/tjferry14/Pythonista-UI-Games
+[PocketYoukai]: https://github.com/MCS-Kaijin/PocketYoukai
