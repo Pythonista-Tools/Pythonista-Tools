@@ -25,6 +25,7 @@ GitHub Repos
 | [blok][] |  Static website generator for Pythonista + Editor |
 | [HTMLEditor Pythonista][] |  A basic html editor for Pythonista |
 | [mail-me-mah-code][] |  A python utility that takes makes a .zip file of your project and emails it to your specified recipient |
+| [Post-to-Pythonista-Forum][] |  Script for posting to the Pythonista forum from within Pythonista itself |
 
 GitHub Gists
 ------------
@@ -79,3 +80,4 @@ GitHub Gists
 [blok]: https://github.com/solarfl4re/blok
 [HTMLEditor Pythonista]: https://github.com/Cethric/HTMLEditor-Pythonista/
 [mail-me-mah-code]: https://www.github.com/MCS-Kaijin/mail-me-mah-code
+[Post-to-Pythonista-Forum]: https://github.com/danrcook/Post-to-Pythonista-Forum
