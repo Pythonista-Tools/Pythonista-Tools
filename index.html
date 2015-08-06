@@ -73,15 +73,18 @@
 		</div>     <!-- /.col -->
   		<div class="col-md-4">
   			<h3 class="text-center">New from the Blog</h3>
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
+  			       <ul class="list-unstyled">
+         {% for post in site.posts %}
+         <li>
+          <h2><a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a></h2>
+          <div class="row">
+  <div class="col-md-8"><p class="lead">by {{ post.author }}</p></div>
+  <div class="col-md-4"><p class="text-right"><i class="fa fa-calendar"></i> Posted on {{ post.date | date_to_string }}</p></div>
+</div>
+           {{ post.excerpt }}
+         </li>
+         {% endfor %}
 </ul>
-
 		</div>     <!-- /.col -->
 		<div class="col-md-4">
 			<h3 class="text-center">FAQ</h3>
