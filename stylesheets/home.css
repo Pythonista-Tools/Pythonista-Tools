@@ -32,6 +32,14 @@ body {
 
 .headline h2 {font-size: 20px; color: #fff; text-align: center;}
 
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent
+}
+
 .featurette-divider {
     margin: 80px 0;
 }
