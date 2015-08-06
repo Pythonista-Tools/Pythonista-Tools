@@ -76,9 +76,9 @@
   		<div class="col-md-4">
   			<h3 class="text-center">New from the Blog</h3>
   			       <ul class="list-unstyled">
-         {% for post in site.posts %}
+         {% for post in site.posts offset:1 limit:2 %}
          <li>
-          <h2><a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a></h2>
+          <h4><a href="/Pythonista-Tools/{{ post.url }}">{{ post.title }}</a></h4>
           <div class="row">
   <div class="col-md-8"><p class="lead">by {{ post.author }}</p></div>
   <div class="col-md-4"><p class="text-right"><i class="fa fa-calendar"></i> Posted on {{ post.date | date_to_string }}</p></div>
