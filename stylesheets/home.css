@@ -34,7 +34,7 @@ body {
 
 
 .navbar {
-    position: relative;
+    position: fixed;
     min-height: 50px;
     margin-bottom: 20px;
     border: 1px solid transparent
