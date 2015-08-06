@@ -15,7 +15,7 @@ body {
 .header-image {
     display: block;
     width: 100%;
-    height: 500px;
+    height: 400px;
     text-align: center;
     background: url('../images/header.jpg') no-repeat center center scroll;
     -webkit-background-size: cover;
