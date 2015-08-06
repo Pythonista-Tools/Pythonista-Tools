@@ -73,11 +73,14 @@
 		</div>     <!-- /.col -->
   		<div class="col-md-4">
   			<h3 class="text-center">New from the Blog</h3>
-			<ul>
-  			{% for post in site.posts offset:1 limit:2 %}
-				<li> <a href="{{ post.url }}">{{ post.title }}</a></li>
-  			{% endfor %}
-			</ul>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
 
 		</div>     <!-- /.col -->
 		<div class="col-md-4">
