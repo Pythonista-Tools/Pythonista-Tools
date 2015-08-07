@@ -2,7 +2,7 @@
 title: Introducing The New Pythonista Tools
 layout: post
 permalink: /blog/introducing-the-new-pythonista-tools.html
-author: techteej
+author: tjferry14
 category: General
 ---
 
