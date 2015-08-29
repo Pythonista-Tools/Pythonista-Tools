@@ -56,7 +56,7 @@ GitHub Gists
 [watch_pythonista_forum]: https://gist.github.com/cclauss/8794104
 [Snakeyes]: https://github.com/gerzer/snakeyes
 [PythonistaRSSReader]: https://github.com/dlo/PythonistaRSSReader
-[filenav]: https://github.com/dgelessus/pythonista-scripts
+[filenav]: https://github.com/dgelessus/filenav
 [glassboard2json]: https://gist.github.com/omz/6674820
 [ShortURL]: https://gist.github.com/omz/5596891
 [LastPass Pythonista]: https://github.com/HyShai/lastpass-pythonista
