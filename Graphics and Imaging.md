@@ -6,8 +6,8 @@ GitHub Repos
 | Script Name               | Description | 
 | ------------------------- | ----------- | 
 | [photo_text][]            | Script to add one line of text to a photo |
-| [Pythonista Pixel Editor] | A simple pixel art editor for Pythonista |
-
+| [Pythonista Pixel Editor][] | A simple pixel art editor for Pythonista |
+| [Image2ASCII][]           | A script for converting images to ASCII art  |
 
 GitHub Gists
 ------------
@@ -44,3 +44,4 @@ Custom Modules
 [easy_paint]: https://gist.github.com/SebastianJarsve/5297697
 [post_flickr_instagram]: https://gist.github.com/jamesacampbell/0d3ba1f1323f8fecc3ab
 [squarify]: https://gist.github.com/jamesacampbell/11242170
+[Image2ASCII]: https://github.com/The-Penultimate-Defenestrator/Image2ASCII-iOS
