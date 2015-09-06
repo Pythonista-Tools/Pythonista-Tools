@@ -12,11 +12,12 @@ GitHub Repos
 | [pyui_print][ccc]           | Print out .pyiu or other json formatted files |
 | [pyui_to_clipboard][ccc]    | Put the contents of a pyui file onto the clipboard |
 | [zap_carriage_returns][ccc] | Make those Windows text files more friendly |
-| [tweetme][] | Allows you to tweet whatever you type into a dialog |
+| [tweetme][tjferry14] | Allows you to tweet whatever you type into a dialog |
+| [count_text][tjferry14] | Counts the amount of letters or numbers in text you ask it to |
 
 
 GitHub Gists
 ------------
 
 [ccc]: https://github.com/cclauss/Ten-lines-or-less
-[tweetme]: https://github.com/tjferry14/My-Pythonista-Projects
+[tjferry14]: https://github.com/tjferry14/My-Pythonista-Projects
