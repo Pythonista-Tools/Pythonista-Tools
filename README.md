@@ -11,7 +11,7 @@ Don't see a repo/script on here? [Open a new issue](https://github.com/Pythonist
 Questions on how to download scripts?
 ------------
 
-Pythonista Tools is currently just a collection of links to different projects made in Pythonista. If you would like to download the entire repo and all the scripts it links to, download and run [this script](https://github.com/ywangd/pythonista-tools-installer). If there is something specific you want to download, go to its link and follow the instructions the project itself provides. If no instructions can be found at the project’s homepage, try asking about it on the [Pythonista forums](https://forum.omz-software.com). Tools to download specific scripts can also be found in the "Github Tools" section of the [scripts page](http://pythonista-tools.github.io/Pythonista-Tools/scripts.html).
+Pythonista Tools is currently just a collection of links to different projects made in Pythonista. Using [this script](https://github.com/ywangd/pythonista-tools-installer) you can browse and download all the current scripts in the repo. 
 
 License
 ------------
