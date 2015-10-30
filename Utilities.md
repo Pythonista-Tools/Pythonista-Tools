@@ -27,6 +27,7 @@ GitHub Repos
 | [mail-me-mah-code][] |  A python utility that takes makes a .zip file of your project and emails it to your specified recipient |
 | [Post-to-Pythonista-Forum][] |  Script for posting to the Pythonista forums (1.0) from within Pythonista itself |
 | [Task-List][]      | Create, read, update, and delete task lists |
+| [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 
 GitHub Gists
 ------------
@@ -83,3 +84,4 @@ GitHub Gists
 [mail-me-mah-code]: https://www.github.com/MCS-Kaijin/mail-me-mah-code
 [Post-to-Pythonista-Forum]: https://github.com/danrcook/Post-to-Pythonista-Forum
 [Task-List]: https://github.com/robinsiebler/Task-List
+[pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
