@@ -17,7 +17,7 @@ GitHub Gists
 | -------------      | ------------- | 
 | [touchid][]    | Perform local authentications using Touch ID |
 | [Theme Editor] | Create and edit your themes for the Editor   |
-| [attach mail ] | open a mail composer and attch a file. |
+| [attach mail] | open a mail composer and attch a file. |
 
 
 [OpenGL for Embedded Systems]: https://github.com/Cethric/OpenGLES-Pythonista
