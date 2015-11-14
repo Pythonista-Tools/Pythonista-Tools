@@ -28,6 +28,7 @@ GitHub Repos
 | [Post-to-Pythonista-Forum][] |  Script for posting to the Pythonista forums (1.0) from within Pythonista itself |
 | [Task-List][]      | Create, read, update, and delete task lists |
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
+| [maze-cv][] | A program for scanning and solving mazes |
 
 GitHub Gists
 ------------
@@ -85,3 +86,4 @@ GitHub Gists
 [Post-to-Pythonista-Forum]: https://github.com/danrcook/Post-to-Pythonista-Forum
 [Task-List]: https://github.com/robinsiebler/Task-List
 [pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
+[maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
