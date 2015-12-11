@@ -13,6 +13,7 @@ GitHub Repos
 | [Tic Tac Toe] [] | Tic tac toe game using UI |
 | [rps] [] | Rock, paper, scissors game using UI |
 | [PocketYoukai] [] | A minimalistic, text-based RPG using Pythonista's Scene module |
+| [2048-for-Pythonista] [] | A 2048 game for the Pythonista beta 1.6  |
 
 GitHub Gists
 ------------
@@ -28,7 +29,7 @@ GitHub Gists
 | [Dice Roller] [] | Simple dice roller program  |
 | [Space Invaders] [] | Space Invaders style game  |
 | [Maze Craze] [] | A Maze Generator/Pacman style game  |
-| [2048] [] | A Pythonista 2048 clone, using ui module. Also should work in console in any python.  |
+| [2048] [] | A Pythonista 2048 clone, using UI module. Also should work in console in any python.  |
 | [Ripoff] [] | A Pythonista version of the vector graphics arcade game |
 | [Breakout Clone] [] | A clone of the popular game Breakout |
 | [Impossiball Clone] [] | Featuring MultiScene |
@@ -63,3 +64,4 @@ Custom Modules
 [Tic Tac Toe]: https://github.com/tjferry14/Pythonista-UI-Games
 [rps]: https://github.com/tjferry14/Pythonista-UI-Games
 [PocketYoukai]: https://github.com/MCS-Kaijin/PocketYoukai
+[2048-for-Pythonista]: https://github.com/SebastianJarsve/2048-for-Pythonista
