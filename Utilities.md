@@ -29,6 +29,7 @@ GitHub Repos
 | [Task-List][]      | Create, read, update, and delete task lists |
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 | [maze-cv][] | A program for scanning and solving mazes |
+| [EsolangsInterpreter][] | An interpreter for esoteric programming languages using Pythonista's UI module |
 
 GitHub Gists
 ------------
@@ -87,3 +88,4 @@ GitHub Gists
 [Task-List]: https://github.com/robinsiebler/Task-List
 [pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
 [maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
+[EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
