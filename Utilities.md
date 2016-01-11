@@ -30,6 +30,7 @@ GitHub Repos
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 | [maze-cv][] | A program for scanning and solving mazes |
 | [EsolangsInterpreter][] | An interpreter for esoteric programming languages using Pythonista's UI module |
+| [IstaFlow][] | A automation app for pythonista |
 
 GitHub Gists
 ------------
@@ -89,3 +90,4 @@ GitHub Gists
 [pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
 [maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
+[IstaFlow]: https://github.com/shaun-h/istaflow
