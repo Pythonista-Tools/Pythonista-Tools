@@ -8,6 +8,7 @@ GitHub Repos
 | [PackUI]           | Package a .py script and its .pyui file into a self-extracting bundle |
 | [ui-tutorial][]    | UI Tutorial gives you a running start in using the ui module |
 | [uicomponents][]   | Various specialized ui components |
+| [MarkdownView]     | TextView with markdown editing and HTML viewing capabilities |
 
 GitHub Gists
 ------------
@@ -39,3 +40,4 @@ Custom Modules
 [tabbedview]: https://gist.github.com/jsbain/fcadaffff4be09c4ec78
 [proplistener]: https://gist.github.com/jsbain/87cf25db0d3f1b16c512
 [Cover Flow view]: https://gist.github.com/The-Penultimate-Defenestrator/1eb8702f85521004477b
+[MarkdownView]: https://github.com/mikaelho/pythonista-markdownview
