@@ -27,4 +27,5 @@ Paid Pythonista made apps
 [Velocity Run]: https://itunes.apple.com/us/app/velocity-run/id642044324?mt=8
 [Servr]: https://itunes.apple.com/us/app/servr-mobile-edition/id893390157?ls=1&mt=8
 [Cacti Killer]: https://itunes.apple.com/app/cacti-killer/id913209685?mt=8
-[]: https://itunes.apple.com/app/boxscape/id1053771238?mt=8
+[Boxscape]: https://itunes.apple.com/app/boxscape/id1053771238?mt=8
+[Third Law]: https://itunes.apple.com/app/third-law/id1054853024?mt=8
