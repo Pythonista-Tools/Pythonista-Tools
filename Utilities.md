@@ -30,7 +30,10 @@ GitHub Repos
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 | [maze-cv][] | A program for scanning and solving mazes |
 | [EsolangsInterpreter][] | An interpreter for esoteric programming languages using Pythonista's UI module |
-| [IstaFlow][] | A automation app for pythonista |
+| [IstaFlow][] |	A automation app for pythonista |
+| [gitsynchista][] | Pythonista tool to synchronize local files with a Github repository hosted on a WebDav server |
+| [pyzipista][] | Tool to create a self-extracting Pythonista application |
+| [rechtschreibung][] | Test different rule sets for German spelling |
 
 GitHub Gists
 ------------
@@ -91,3 +94,6 @@ GitHub Gists
 [maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
 [IstaFlow]: https://github.com/shaun-h/istaflow
+[gitsynchista]: https://github.com/marcus67/gitsynchista
+[pyzipista]: https://github.com/marcus67/pyzipista
+[rechtschreibung]: https://github.com/marcus67/rechtschreibung
