@@ -6,6 +6,7 @@ GitHub Repos
 | Script Name   | Description   | 
 | ------------- | ------------- | 
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
+| [DropboxSync][]      | Dropbox File Synchronization | 
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [editmenu] [] | Pythonista editor sidebar utilities |
 | [Snakeyes] [] | Simple code-completion system for Pythonista |
@@ -40,7 +41,6 @@ GitHub Gists
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
-| [Dropbox Sync][]      | Dropbox File Synchronization | 
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
 | [ShortcutGenerator] [] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch] [] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
@@ -55,7 +55,7 @@ GitHub Gists
 
 [Shellista]: https://github.com/transistor1/shellista
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
-[Dropbox Sync]: https://gist.github.com/sidewinder42/8631794
+[DropboxSync]: https://github.com/dhutchison/PythonistaScripts
 [FontInstaller]: https://gist.github.com/omz/9901460
 [ShortcutGenerator]: https://gist.github.com/omz/7870550
 [editmenu]: https://github.com/jsbain/editmenu
