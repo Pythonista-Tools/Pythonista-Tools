@@ -25,8 +25,8 @@ GitHub Repos
 | [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone |
 | [blok][] |  Static website generator for Pythonista + Editor |
 | [HTMLEditor Pythonista][] |  A basic html editor for Pythonista |
-| [mail-me-mah-code][] |  A python utility that takes makes a .zip file of your project and emails it to your specified recipient |
-| [Post-to-Pythonista-Forum][] |  Script for posting to the Pythonista forums (1.0) from within Pythonista itself |
+| [mail-me-mah-code][] | Makes a .zip file of your project and emails it to your specified recipient |
+| [Post-to-Pythonista-Forum][] | Script for posting to the Pythonista forums (1.0) from within Pythonista itself |
 | [Task-List][]      | Create, read, update, and delete task lists |
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 | [maze-cv][] | A program for scanning and solving mazes |
