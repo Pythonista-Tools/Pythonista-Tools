@@ -41,7 +41,7 @@ GitHub Gists
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
-| [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your local network. |
+| [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
 | [ShortcutGenerator] [] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch] [] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
