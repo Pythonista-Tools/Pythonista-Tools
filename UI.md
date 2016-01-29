@@ -9,6 +9,7 @@ GitHub Repos
 | [ui-tutorial][]    | UI Tutorial gives you a running start in using the ui module |
 | [uicomponents][]   | Various specialized ui components |
 | [MarkdownView]     | TextView with markdown editing and HTML viewing capabilities |
+| [Navigation View Tutorial] | A solid Navigation View Tutorial/Example with Pythonista |
 
 GitHub Gists
 ------------
@@ -43,3 +44,4 @@ Custom Modules
 [Cover Flow view]: https://gist.github.com/The-Penultimate-Defenestrator/1eb8702f85521004477b
 [MarkdownView]: https://github.com/mikaelho/pythonista-markdownview
 [ProgressView]: https://gist.github.com/blmacbeth/60bacd65c89e5290f452
+[Navigation View Tutorial]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Navigation%20View%20Tutorial
