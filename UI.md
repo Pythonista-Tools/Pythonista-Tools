@@ -9,7 +9,7 @@ GitHub Repos
 | [ui-tutorial][]    | UI Tutorial gives you a running start in using the ui module |
 | [uicomponents][]   | Various specialized ui components |
 | [MarkdownView]     | TextView with markdown editing and HTML viewing capabilities |
-| [Navigation View Tutorial] | A solid Navigation View Tutorial/Example |
+| [Navigation View Tutorial] | A Navigation View Tutorial/Example |
 
 GitHub Gists
 ------------
