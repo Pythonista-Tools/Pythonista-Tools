@@ -34,6 +34,7 @@ GitHub Repos
 | [IstaFlow][] |	A automation app for pythonista |
 | [pyzipista][] | Tool to create a self-extracting Pythonista application |
 | [rechtschreibung][] | Test different rule sets for German spelling |
+| [WebIDE][] | Simple Web IDE made for Pythonista |
 
 GitHub Gists
 ------------
@@ -94,6 +95,7 @@ GitHub Gists
 [Task-List]: https://github.com/robinsiebler/Task-List
 [url_cleaner]: https://github.com/HyShai/url-cleaner
 [watch_pythonista_forum]: https://gist.github.com/cclauss/8794104
+[WebIDE]: https://github.com/Ivoah/WebIDE
 [YouTube]: http://youtube.com
 [youtube-dl]: https://github.com/HyShai/youtube-dl
 [youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
