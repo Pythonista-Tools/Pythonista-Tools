@@ -1,6 +1,6 @@
 # ObjC Tools
 
-Tools created with the ctypes and/or objc_util modules.  __Warning:__ These tools require Pythonista v1.6 beta or later.
+Tools created with the ctypes and/or objc_util modules.  __Warning:__ These tools require Pythonista v2.0 or later.
 
 GitHub Repos
 ------------
