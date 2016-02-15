@@ -49,7 +49,6 @@ GitHub Gists
 | [watch_pythonista_forum] [] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
 | [glassboard2json][]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][]  |  URL shortener using is.gd      |
-| [file_downloader][] | Provide a URL to a file and this script will download it with a progress bar |
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
 | [fmath] [] | Advanced functional math module      |
@@ -62,7 +61,6 @@ GitHub Gists
 [editmenu]: https://github.com/jsbain/editmenu
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
 [FontInstaller]: https://gist.github.com/omz/9901460
-[file_downloader]: https://gist.github.com/elliospizzaman/89edf288a15fde45682a
 [filenav]: https://github.com/dgelessus/filenav
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [glassboard2json]: https://gist.github.com/omz/6674820
