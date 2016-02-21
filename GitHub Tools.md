@@ -9,7 +9,7 @@ GitHub Repos
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [gitsynchista][] | Pythonista tool to synchronize local files with a Github repository hosted on a WebDav server |
-| [Cheatsheet][] | Github-Cheatsheet for stash and CreateRepo.py |
+| [Cheatsheet][] | Github-Cheatsheet for stash and CreateRepo.py (simple way of creating a remote repo) |
 
 GitHub Gists
 ------------
