@@ -8,6 +8,7 @@ GitHub Repos
 | [photo_text][]            | Script to add one line of text to a photo |
 | [Pythonista Pixel Editor][] | A simple pixel art editor for Pythonista |
 | [Image2ASCII][]           | A script for converting images to ASCII art  |
+| [DrawOnImage][]           | Draw on an camera roll image |
 
 GitHub Gists
 ------------
@@ -45,3 +46,4 @@ Custom Modules
 [post_flickr_instagram]: https://gist.github.com/jamesacampbell/0d3ba1f1323f8fecc3ab
 [squarify]: https://gist.github.com/jamesacampbell/11242170
 [Image2ASCII]: https://github.com/The-Penultimate-Defenestrator/Image2ASCII-iOS
+[DrawOnImage]: https://github.com/humberry/DrawOnImage
