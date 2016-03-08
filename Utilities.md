@@ -35,6 +35,7 @@ GitHub Repos
 | [pyzipista][] | Tool to create a self-extracting Pythonista application |
 | [rechtschreibung][] | Test different rule sets for German spelling |
 | [WebIDE][] | Simple Web IDE made for Pythonista |
+| [Unzipper][] | Choose files in an archive to unzip |
 
 GitHub Gists
 ------------
@@ -97,3 +98,4 @@ GitHub Gists
 [YouTube]: http://youtube.com
 [youtube-dl]: https://github.com/HyShai/youtube-dl
 [youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
+[Unzipper]: https://github.com/humberry/Unzipper
