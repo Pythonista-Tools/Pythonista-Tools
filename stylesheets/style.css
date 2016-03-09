@@ -5,113 +5,12 @@
  */
 @import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700);
 
-
 body {
     font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: 14px;
-    padding-top: 60px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+    padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
 }
 
-.header-image {
-    display: block;
-    width: 100%;
-    height: 500px;
-    text-align: center;
-    background: url('../images/header.jpg') no-repeat center center scroll;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
-.headline {
-    padding: 120px 0;
-}
-
-.headline h1 {font-size: 60px; color: #fff;}
-
-.headline h2 {font-size: 20px; color: #fff; text-align: center;}
-
-.navbar {
-    position: fixed;
-    min-height: 50px;
-    margin-bottom: 20px;
-    border: 1px solid transparent
-}
-
-h1,
-.h1 {
-  font-size: 45px;
-}
-
-footer {
-    margin: 50px 0;
-}
-
-@media(max-width:1200px) {
-    .headline h1 {
-        font-size: 60px;
-    }
-
-    .headline h2 {
-        font-size: 20px;
-    }
-}
-
-@media(max-width:991px) {
-    .headline h1 {
-        font-size: 60px;
-    }
-
-    .headline h2 {
-        font-size: 20px;
-    }
-}
-
-@media(max-width:768px) {
-    .container {
-        margin: 0 15px;
-    }
-}
-
-@media(max-width:668px) {
-    .headline h1 {
-        font-size: 60px;
-    }
-
-    .headline h2 {
-        font-size: 20px;
-    }
-}
-
-@media(max-width:640px) {
-    .headline {
-        padding: 75px 0 25px 0;
-    }
-
-    .headline h1 {
-        font-size: 60px;
-    }
-
-    .headline h2 {
-        font-size: 20px;
-    }
-}
-
-/* Blog post or page title */
-.page-title,
-.post-title {
-  margin-top: 0;
-}
-
-/* Meta data line below post title */
-.post-date {
-  display: block;
-  margin-top: -.5rem;
-  margin-bottom: 1rem;
-  color: #9a9a9a;
-}
-
-.no-bullets {
-    list-style-type: none;
+.category-links{
+    padding: 10px;
 }
