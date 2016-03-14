@@ -14,6 +14,7 @@ GitHub Repos
 | [rps] [] | Rock, paper, scissors game using UI |
 | [PocketYoukai] [] | A minimalistic, text-based RPG using Pythonista's Scene module |
 | [2048-for-Pythonista] [] | A 2048 game for the Pythonista beta 1.6  |
+| [Black and White] [] | A simple grid-based game |
 
 GitHub Gists
 ------------
@@ -65,3 +66,4 @@ Custom Modules
 [rps]: https://github.com/tjferry14/Pythonista-UI-Games
 [PocketYoukai]: https://github.com/MCS-Kaijin/PocketYoukai
 [2048-for-Pythonista]: https://github.com/SebastianJarsve/2048-for-Pythonista
+[Black and White]: https://github.com/chriswilson1982/black-white
