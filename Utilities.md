@@ -8,6 +8,7 @@ GitHub Repos
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
 | [DropboxSync][]      | Dropbox File Synchronization | 
 | [Shellista][] | Another iOS Shell Written for Pythonista |
+| [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu] [] | Pythonista editor sidebar utilities |
 | [Snakeyes] [] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader] [] | Super simple RSS reader for use with Pythonista |
@@ -99,3 +100,4 @@ GitHub Gists
 [youtube-dl]: https://github.com/HyShai/youtube-dl
 [youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
 [Unzipper]: https://github.com/humberry/Unzipper
+[ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
