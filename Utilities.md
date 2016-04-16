@@ -37,6 +37,7 @@ GitHub Repos
 | [rechtschreibung][] | Test different rule sets for German spelling |
 | [WebIDE][] | Simple Web IDE made for Pythonista |
 | [Unzipper][] | Choose files in an archive to unzip |
+| [s3sync][] | Backup and restore to an Amazon S3 bucket |
 
 GitHub Gists
 ------------
@@ -101,3 +102,4 @@ GitHub Gists
 [youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
 [Unzipper]: https://github.com/humberry/Unzipper
 [ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
+[s3sync]: https://github.com/khilnani/s3sync.py
