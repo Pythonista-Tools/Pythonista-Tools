@@ -38,6 +38,7 @@ GitHub Repos
 | [WebIDE][] | Simple Web IDE made for Pythonista |
 | [Unzipper][] | Choose files in an archive to unzip |
 | [s3sync][] | Backup and restore to an Amazon S3 bucket |
+| [MLBPlayista] | Watch MLB.tv games on an iOS device without using the MLB AtBat app |
 
 GitHub Gists
 ------------
@@ -103,3 +104,4 @@ GitHub Gists
 [Unzipper]: https://github.com/humberry/Unzipper
 [ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
 [s3sync]: https://github.com/khilnani/s3sync.py
+[MLBPlayista]: https://github.com/HyShai/MLBPlayista
