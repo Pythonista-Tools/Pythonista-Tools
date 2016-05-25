@@ -47,6 +47,7 @@ GitHub Gists
 | -------------      | ------------- | 
 | [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
+| [file_downloader]{} | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
 | [ShortcutGenerator] [] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch] [] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
@@ -65,6 +66,7 @@ GitHub Gists
 [editmenu]: https://github.com/jsbain/editmenu
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
 [FontInstaller]: https://gist.github.com/omz/9901460
+[file_downloader]: https://gist.github.com/ejmsoftware/89edf288a15fde45682a
 [filenav]: https://github.com/dgelessus/filenav
 [fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [glassboard2json]: https://gist.github.com/omz/6674820
