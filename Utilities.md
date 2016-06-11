@@ -108,4 +108,4 @@ GitHub Gists
 [ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
 [s3sync]: https://github.com/khilnani/s3sync.py
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
-[Password Generator]: https://github.com/ShunSakurai/password_generator 
+[Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py 
