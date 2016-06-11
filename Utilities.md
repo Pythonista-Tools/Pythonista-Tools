@@ -39,6 +39,7 @@ GitHub Repos
 | [Unzipper][] | Choose files in an archive to unzip |
 | [s3sync][] | Backup and restore to an Amazon S3 bucket |
 | [MLBPlayista] | Watch MLB.tv games on an iOS device without using the MLB AtBat app |
+| [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
 
 GitHub Gists
 ------------
@@ -107,3 +108,4 @@ GitHub Gists
 [ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
 [s3sync]: https://github.com/khilnani/s3sync.py
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
+[Password Generator]: https://github.com/ShunSakurai/password_generator 
