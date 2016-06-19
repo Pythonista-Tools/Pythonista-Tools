@@ -40,6 +40,8 @@ GitHub Repos
 | [s3sync][] | Backup and restore to an Amazon S3 bucket |
 | [MLBPlayista] | Watch MLB.tv games on an iOS device without using the MLB AtBat app |
 | [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
+| [PythonistaHexEditor][] | A simple hex editor for Pythonista |
+
 
 GitHub Gists
 ------------
@@ -87,6 +89,7 @@ GitHub Gists
 [Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
 [pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
 [PythonistaBackup]: https://gist.github.com/omz/05f096319c23c4addba9
+[PythonistaHexEditor]: https://github.com/MCS-Kaijin/PythonistaHexEditor
 [PythonistaRSSReader]: https://github.com/dlo/PythonistaRSSReader
 [pyzipista]: https://github.com/marcus67/pyzipista
 [rechtschreibung]: https://github.com/marcus67/rechtschreibung
