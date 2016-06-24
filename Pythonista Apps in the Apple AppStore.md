@@ -10,6 +10,7 @@ Free Pythonista made apps
 | [Cacti Killer] [] | How many cacti can you kill? Find out in this insanely fun and addictive game |
 | [Boxscape] []     | A fast paced game of skillful reaction and awesome bonus characters |
 | [Third Law] []    | Your every action has an equal and opposite reaction |
+| [Black & White] []    | A colourful and challenging grid-based puzzle game |
 
 
 Paid Pythonista made apps
@@ -29,3 +30,4 @@ Paid Pythonista made apps
 [Cacti Killer]: https://itunes.apple.com/app/cacti-killer/id913209685?mt=8
 [Boxscape]: https://itunes.apple.com/app/boxscape/id1053771238?mt=8
 [Third Law]: https://itunes.apple.com/app/third-law/id1054853024?mt=8
+[Black & White]: https://appsto.re/gb/ERkSbb.i
