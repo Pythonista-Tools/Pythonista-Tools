@@ -7,7 +7,7 @@ GitHub Repos
 	
 | Script Name                        | Description                | 
 | ---------------------------------- | -------------------------- | 
-| [XKCD viewer][]                    | UI application for browsing XKCD webcomic |
+| [XKCD viewer][]                    | UI application for browsing XKCD webcomics |
 
 GitHub Gists
 ------------
