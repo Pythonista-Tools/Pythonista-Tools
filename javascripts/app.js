@@ -30,6 +30,9 @@ if (params == 0) {
     if (params['p'] == 'games') {
         $('.gamesBtn').addClass('active');
         sqlString = "select B,C,D,E where E = 'Games' order by B asc";
+    } else if (params['p'] == 'fun') {
+        $('.funBtn').addClass('active');
+        sqlString = "select B,C,D,E where E = 'Fun' order by B asc";
     } else if (params['p'] == 'graphics') {
         $('.graphicsBtn').addClass('active');
         sqlString = "select B,C,D,E where E = 'Graphics and Imaging' order by B asc";
