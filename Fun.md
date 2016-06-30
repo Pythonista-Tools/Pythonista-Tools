@@ -1,6 +1,6 @@
-# Other
+# Fun
 
-Tools and scripts that don't fit into any other category.
+Programs and scripts for fun.
 
 GitHub Repos
 ------------
