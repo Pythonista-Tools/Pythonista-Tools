@@ -10,6 +10,7 @@ GitHub Repos
 | [uicomponents][]   | Various specialized ui components |
 | [MarkdownView]     | TextView with markdown editing and HTML viewing capabilities |
 | [Navigation View Tutorial] | A Navigation View Tutorial/Example |
+| [mediawiki_ui] | A Pythonista MediaWiki user interface module |
 
 GitHub Gists
 ------------
@@ -45,3 +46,4 @@ Custom Modules
 [MarkdownView]: https://github.com/mikaelho/pythonista-markdownview
 [ProgressView]: https://gist.github.com/blmacbeth/60bacd65c89e5290f452
 [Navigation View Tutorial]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Navigation%20View%20Tutorial
+[mediawiki_ui]: https://github.com/disorientedperson/mediawiki_ui
