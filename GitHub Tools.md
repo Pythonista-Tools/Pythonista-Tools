@@ -17,7 +17,7 @@ GitHub Gists
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [gistcheck][]  |  Download or upload gists via bookmarklet and action menu      |
+| [gistcheck][]  |  Download or upload gists via bookmarklet and action menu |
 | [github_download] [] | Github file viewer / general URL download script for Pythonista |
 | [Repo downloader] [] | Download any repo, from anyone |
 
