@@ -29,4 +29,4 @@ GitHub Gists
 [Repo downloader]: https://gist.github.com/671620616/3e04758185af8f98bf72
 [gitsynchista]: https://github.com/marcus67/gitsynchista
 [Cheatsheet]: https://github.com/humberry/Github-Cheatsheet
-[Pythonista and Working Copy](https://github.com/cclauss/Pythonista-and-Working-Copy)
+[Pythonista and Working Copy]: https://github.com/cclauss/Pythonista-and-Working-Copy
