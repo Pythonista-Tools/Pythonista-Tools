@@ -10,7 +10,7 @@ GitHub Repos
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [gitsynchista][] | Pythonista tool to synchronize local files with a Github repository hosted on a WebDav server |
 | [Cheatsheet][] | Github-Cheatsheet for stash and CreateRepo.py (simple way of creating a remote repo) |
-| [Pythonista and Working Copy] | Allow Pythonista to download a git file, folder, or repo from the Working Copy app |
+| [Pythonista and Working Copy][] | Allow Pythonista to download a git file, folder, or repo from the Working Copy app |
 
 GitHub Gists
 ------------
