@@ -1,0 +1,16 @@
+/*!
+ * Start Bootstrap - One Page Wonder HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+@import url(//fonts.googleapis.com/css?family=Roboto:300,400,500,700);
+
+body {
+    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    padding-top: 80px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.category-links{
+    padding: 10px;
+}

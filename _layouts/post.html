@@ -7,11 +7,11 @@
   <title>Pythonista Tools</title>
 
   <!-- Latest compiled and minified Bootstrap CSS -->
-    <link href="//bootswatch.com/paper/bootstrap.min.css" rel="stylesheet">
+  <link href="//bootswatch.com/paper/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom Styles -->
   <link rel="stylesheet" href="//Pythonista-Tools.github.io/Pythonista-Tools/stylesheets/style.css">
-
+  <link rel="stylesheet" href="css/styles.css">
   <!-- Font Awesome -->
   <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -47,17 +47,17 @@
 
 
     <div class="container">
-    
+
       <h1 class="post-title text-center">{{ page.title }}</h1>
       <span class="post-date text-center">By <a href="https://github.com/{{ page.author }}">{{ page.author }}</a> | {{ page.date | date_to_string }}</span>
       <br>
       {{ content }}
-      
+
       <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'pythonistatoolsblog';
-    
+
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
