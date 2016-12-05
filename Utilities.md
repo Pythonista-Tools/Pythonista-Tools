@@ -41,7 +41,7 @@ GitHub Repos
 | [MLBPlayista] | Watch MLB.tv games on an iOS device without using the MLB AtBat app |
 | [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
 | [PythonistaHexEditor][] | A simple hex editor for Pythonista |
-
+| [CleverSFTPClient][] | Very practical Pythonista SFTPClient application |
 
 GitHub Gists
 ------------
@@ -112,3 +112,4 @@ GitHub Gists
 [s3sync]: https://github.com/khilnani/s3sync.py
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
 [Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py 
+[CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
