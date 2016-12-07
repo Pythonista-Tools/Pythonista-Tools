@@ -20,6 +20,7 @@ Paid Pythonista made apps
 | -------------      | ------------- |
 | [Servr] [] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 | [Stacked - Arcade Game] [] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
+| [Hotspotsystem vouchers] [] | RESTful API client app for Hotspotsystem.com |
 
 
 [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
@@ -31,3 +32,4 @@ Paid Pythonista made apps
 [Boxscape]: https://itunes.apple.com/app/boxscape/id1053771238?mt=8
 [Third Law]: https://itunes.apple.com/app/third-law/id1054853024?mt=8
 [Black & White]: https://appsto.re/gb/ERkSbb.i
+[Hotspotsystem vouchers]: https://itunes.apple.com/ca/app/hotspotsystem-vouchers/id1180444770?mt=8
