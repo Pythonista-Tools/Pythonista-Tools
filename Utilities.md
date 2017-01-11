@@ -3,10 +3,10 @@
 GitHub Repos
 ------------
 
-| Script Name   | Description   | 
-| ------------- | ------------- | 
+| Script Name   | Description   |
+| ------------- | ------------- |
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
-| [DropboxSync][]      | Dropbox File Synchronization | 
+| [DropboxSync][]      | Dropbox File Synchronization |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu] [] | Pythonista editor sidebar utilities |
@@ -42,12 +42,14 @@ GitHub Repos
 | [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
 | [PythonistaHexEditor][] | A simple hex editor for Pythonista |
 | [CleverSFTPClient][] | Very practical Pythonista SFTPClient application |
+| [Dropbox File Picker][] | A script to enable Pythonista to download files from Dropbox |
+
 
 GitHub Gists
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
 | [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
@@ -111,5 +113,6 @@ GitHub Gists
 [ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
 [s3sync]: https://github.com/khilnani/s3sync.py
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
-[Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py 
+[Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py
 [CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
+[Dropbox File Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
