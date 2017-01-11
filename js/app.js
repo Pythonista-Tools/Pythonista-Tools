@@ -2,7 +2,7 @@
 var mySpreadsheet = 'https://docs.google.com/spreadsheets/d/1NY7r9pvcEwKPNkCUVGJ0YEgBqi4Ksa3ZhQGmYcbKkAQ/pubhtml?gid=0';
 
 // Compile template
-var scriptsTemplate = Handlebars.compile($('#games-template').html());
+var scriptsTemplate = Handlebars.compile($('#scripts-template').html());
 
 // Get query string parameters
 var params = [], hash;
