@@ -21,6 +21,7 @@ GitHub Gists
 | [easy_paint][]      | Simple canvas/sketchpad script |
 | [post_flickr_instagram] []      | Post to Flickr then squarify photo without cropping and post to Instagram in one step |
 | [squarify][]      | Squarify any photo (landscape or portrait) - adds white space instead of cropping to make square and then open up Instagram to post |
+| [ImageFrame][]      | Remote-controllable digital image frame with built-in web server |
 
 Custom Modules
 ------------
@@ -43,3 +44,4 @@ Custom Modules
 [squarify]: https://gist.github.com/jamesacampbell/11242170
 [Image2ASCII]: https://github.com/The-Penultimate-Defenestrator/Image2ASCII-iOS
 [DrawOnImage]: https://github.com/humberry/DrawOnImage
+[ImageFrame]: https://gist.github.com/SpotlightKid/be9bc4c08a9e1531287c89182f7931d8
