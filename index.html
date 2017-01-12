@@ -41,7 +41,7 @@
       </div>
     </nav>
 
-    <div class="container">
+    <div class="container-fluid">
 
         <form id="searchForm" action="./" method="get">
             <div class="form-group">
@@ -55,39 +55,49 @@
         </form>
 
 
-        <div class="category-links">
-        <ul class="nav nav-pills">
-            <li class="funBtn"><a href="?p=fun">Fun</a></li>
-            <li class="gamesBtn"><a href="?p=games">Games</a></li>
-            <li class="githubBtn"><a href="?p=github">GitHub Tools</a></li>
-            <li class="graphicsBtn"><a href="?p=graphics">Graphics and Imaging</a></li>
-            <li class="internetBtn"><a href="?p=internet">Internet of Things</a></li>
-            <li class="objcBtn"><a href="?p=objc">ObjC Tools</a></li>
-            <li class="pypiBtn"><a href="?p=pypi">Pypi Modules</a></li>
-            <li class="soundsBtn"><a href="?p=sounds">Sounds</a></li>
-            <li class="tenBtn"><a href="?p=ten">Ten Lines or Less</a></li>
-            <li class="uiBtn"><a href="?p=ui">UI</a></li>
-            <li class="utilitiesBtn"><a href="?p=utilities">Utilities</a></li>
-        </ul>
-        </div>
-        <div class="table-responsive">
+        <div class="row">
+  <div class="col-md-8">
+    <div class="table-responsive">
 <table id="scripts" class="table table-striped">
-    <tr>
-      <th>Name</th>
-      <th>Description</th>
-      <th>Category</th>
-    </tr>
-  <script id="scripts-template" type="text/x-handlebars-template">
-    {{#if num}}
-      <tr>
-        <td><a href="{{cells.Link}}">{{cells.Name}}</a></td>
-        <td>{{cells.Description}}</td>
-        <td>{{cells.Category}}</td>
-      </tr>
-    {{/if}}
-  </script>
+<tr>
+  <th>Name</th>
+  <th>Description</th>
+  <th>Category</th>
+</tr>
+<script id="scripts-template" type="text/x-handlebars-template">
+{{#if num}}
+  <tr>
+    <td><a href="{{cells.Link}}">{{cells.Name}}</a></td>
+    <td>{{cells.Description}}</td>
+    <td>{{cells.Category}}</td>
+  </tr>
+{{/if}}
+</script>
 </table>
-      </div>
+  </div>
+  </div>
+  <div class="col-md-4">
+    <div class="category-links">
+      <h5>Filter by Category</h5>
+          <ul class="nav nav-pills nav-stacked">
+              <li class="funBtn"><a href="?p=fun">Fun</a></li>
+              <li class="gamesBtn"><a href="?p=games">Games</a></li>
+              <li class="githubBtn"><a href="?p=github">GitHub Tools</a></li>
+              <li class="graphicsBtn"><a href="?p=graphics">Graphics and Imaging</a></li>
+              <li class="internetBtn"><a href="?p=internet">Internet of Things</a></li>
+              <li class="objcBtn"><a href="?p=objc">ObjC Tools</a></li>
+              <li class="pypiBtn"><a href="?p=pypi">Pypi Modules</a></li>
+              <li class="soundsBtn"><a href="?p=sounds">Sounds</a></li>
+              <li class="tenBtn"><a href="?p=ten">Ten Lines or Less</a></li>
+              <li class="uiBtn"><a href="?p=ui">UI</a></li>
+              <li class="utilitiesBtn"><a href="?p=utilities">Utilities</a></li>
+          </ul>
+          </div>
+</div>
+</div>
+
+
+
 
     </div><!-- /.container -->
 
