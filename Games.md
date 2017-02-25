@@ -8,7 +8,6 @@ GitHub Repos
 | [Minesweeper] []   | Minesweeper game for Pythonista |
 |                    |  [Minesweeper with additional features] [] | 
 | [Cloud Jump 2] []  | Additional features from the original [Cloud Jump] [] |
-| [Phantom Chess] [] | Phantom Chess |
 | [learn-math] [] | A game to learn basic math skills |
 | [Tic Tac Toe] [] | Tic tac toe game using UI |
 | [rps] [] | Rock, paper, scissors game using UI |
@@ -59,7 +58,6 @@ Custom Modules
 [2048]: https://gist.github.com/henryiii/0a58c7e958c1b317f64a
 [Ripoff]: https://gist.github.com/GuyCarver/4115763
 [Breakout Clone]: https://gist.github.com/SebastianJarsve/5305895
-[Phantom Chess]: https://github.com/671620616/PhantomChess
 [learn-math]: https://github.com/blmacbeth/learn-math
 [Impossiball Clone]: https://gist.github.com/SebastianJarsve/5809279
 [Tic Tac Toe]: https://github.com/tjferry14/Pythonista-UI-Games
