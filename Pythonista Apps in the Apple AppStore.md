@@ -10,6 +10,7 @@ Free Pythonista made apps
 | [Boxscape][]     | A fast paced game of skillful reaction and awesome bonus characters |
 | [Third Law][]    | Your every action has an equal and opposite reaction |
 | [Black & White][]    | A colourful and challenging grid-based puzzle game |
+| [Stacked - Arcade Game][] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
 
 
 Paid Pythonista made apps
@@ -18,7 +19,6 @@ Paid Pythonista made apps
 | App Name           | Description   | 
 | -------------      | ------------- |
 | [Servr][] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
-| [Stacked - Arcade Game][] | Stacked is a fun, casual game based on the gameplay of the popular arcade game "Stacker" |
 | [Hotspotsystem vouchers][] | RESTful API client app for Hotspotsystem.com |
 
 
