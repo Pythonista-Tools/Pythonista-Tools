@@ -18,8 +18,8 @@ GitHub Gists
 | Script Name        | Description   | 
 | -------------      | ------------- | 
 | [gistcheck][]  |  Download or upload gists via bookmarklet and action menu |
-| [github_download] [] | Github file viewer / general URL download script for Pythonista |
-| [Repo downloader] [] | Download any repo, from anyone |
+| [github_download][] | Github file viewer / general URL download script for Pythonista |
+| [Repo downloader][] | Download any repo, from anyone |
 
 [gistcheck]: https://gist.github.com/jsbain/1c95b3491d65d9e24456#
 [GitHubGet]: https://github.com/jsbain/GitHubGet
