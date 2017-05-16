@@ -56,7 +56,7 @@ GitHub Gists
 | [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
 | [ShortcutGenerator][] | Script adds a "Webclip" shortcut to your homescreen for another script |
-| [GoogleSearch] [] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
+| [GoogleSearch][] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
 | [watch_pythonista_forum][] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
 | [glassboard2json][]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][]  |  URL shortener using is.gd      |
