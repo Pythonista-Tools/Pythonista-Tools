@@ -5,41 +5,41 @@ GitHub Repos
 
 | Script Name        | Description   | 
 | ------------------ | ------------- | 
-| [Minesweeper] []   | Minesweeper game for Pythonista |
-|                    |  [Minesweeper with additional features] [] | 
-| [Cloud Jump 2] []  | Additional features from the original [Cloud Jump] [] |
-| [learn-math] [] | A game to learn basic math skills |
-| [Tic Tac Toe] [] | Tic tac toe game using UI |
-| [rps] [] | Rock, paper, scissors game using UI |
-| [PocketYoukai] [] | A minimalistic, text-based RPG using Pythonista's Scene module |
-| [2048-for-Pythonista] [] | A 2048 game for the Pythonista beta 1.6  |
-| [Black and White] [] | A simple grid-based game |
+| [Minesweeper][]   | Minesweeper game for Pythonista |
+|                    |  [Minesweeper with additional features][] | 
+| [Cloud Jump 2][]  | Additional features from the original [Cloud Jump][] |
+| [learn-math][] | A game to learn basic math skills |
+| [Tic Tac Toe][] | Tic tac toe game using UI |
+| [rps][] | Rock, paper, scissors game using UI |
+| [PocketYoukai][] | A minimalistic, text-based RPG using Pythonista's Scene module |
+| [2048-for-Pythonista][] | A 2048 game for the Pythonista beta 1.6  |
+| [Black and White][] | A simple grid-based game |
 
 GitHub Gists
 ------------
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [Air Hockey] []      | Air Hockey game (iPad and iPhone) |
-| [Cloud Jump] []      | Doodle Jump style game   | 
-| [Times Tables Torture] [] | Math Challenge game  |
-| [Jumpy Octopus] [] | Flappy Bird style game  |
-| [Space Shooter] [] | Space Shooter style game  |
-| [Monkey] [] | Frogger style game  |
-| [Dice Roller] [] | Simple dice roller program  |
-| [Space Invaders] [] | Space Invaders style game  |
-| [Maze Craze] [] | A Maze Generator/Pacman style game  |
-| [2048] [] | A Pythonista 2048 clone, using UI module. Also should work in console in any python.  |
-| [Ripoff] [] | A Pythonista version of the vector graphics arcade game |
-| [Breakout Clone] [] | A clone of the popular game Breakout |
-| [Impossiball Clone] [] | Featuring MultiScene |
+| [Air Hockey][]      | Air Hockey game (iPad and iPhone) |
+| [Cloud Jump][]      | Doodle Jump style game   | 
+| [Times Tables Torture][] | Math Challenge game  |
+| [Jumpy Octopus][] | Flappy Bird style game  |
+| [Space Shooter][] | Space Shooter style game  |
+| [Monkey][] | Frogger style game  |
+| [Dice Roller][] | Simple dice roller program  |
+| [Space Invaders][] | Space Invaders style game  |
+| [Maze Craze][] | A Maze Generator/Pacman style game  |
+| [2048][] | A Pythonista 2048 clone, using UI module. Also should work in console in any python.  |
+| [Ripoff][] | A Pythonista version of the vector graphics arcade game |
+| [Breakout Clone][] | A clone of the popular game Breakout |
+| [Impossiball Clone][] | Featuring MultiScene |
 
 Custom Modules
 ------------
 
 | Script Name      | Description | 
 | ---------------- | ----------- | 
-| [High-Scores] [] | Module to save players' high score in games |
+| [High-Scores][] | Module to save players' high score in games |
 
 
 [Air Hockey]: https://gist.github.com/gillibrand/3271073
