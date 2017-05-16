@@ -9,11 +9,11 @@ GitHub Repos
 | [DropboxSync][]      | Dropbox File Synchronization |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
-| [editmenu] [] | Pythonista editor sidebar utilities |
-| [Snakeyes] [] | Simple code-completion system for Pythonista |
-| [PythonistaRSSReader] [] | Super simple RSS reader for use with Pythonista |
-| [filenav] [] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
-| [LastPass Pythonista] [] | LastPass Python API (adapted for iOS - Pythonista) |
+| [editmenu][] | Pythonista editor sidebar utilities |
+| [Snakeyes][] | Simple code-completion system for Pythonista |
+| [PythonistaRSSReader][] | Super simple RSS reader for use with Pythonista |
+| [filenav][] | A simple file navigator with support for accessing the entire directory structure, not just the Script Library |
+| [LastPass Pythonista][] | LastPass Python API (adapted for iOS - Pythonista) |
 | [url_cleaner][] | Convert a short URL into the original longer version |
 | [hexviewer][] | Simple Hexviewer |
 | [SFTPclient][]   | Simple UI SFTPclient |
@@ -55,15 +55,15 @@ GitHub Gists
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
 | [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
-| [ShortcutGenerator] [] | Script adds a "Webclip" shortcut to your homescreen for another script |
+| [ShortcutGenerator][] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch] [] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
-| [watch_pythonista_forum] [] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
+| [watch_pythonista_forum][] | Script prints out info on all posts to the Pythonista forum in the past 24 hours |
 | [glassboard2json][]  | Converter script to get machine-readable JSON from a Glassboard HTML export      |
 | [ShortURL][]  |  URL shortener using is.gd      |
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
-| [indentation] [] | Add this to your action menu and quickly indent multiple lines of code|
-| [fmath] [] | Advanced functional math module      |
-| [Module grabber] [] | Get the sourcecode of a non-builtin module |
+| [indentation][] | Add this to your action menu and quickly indent multiple lines of code|
+| [fmath][] | Advanced functional math module      |
+| [Module grabber][] | Get the sourcecode of a non-builtin module |
 
 [blok]: https://github.com/solarfl4re/blok
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
