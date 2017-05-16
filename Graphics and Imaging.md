@@ -15,11 +15,11 @@ GitHub Gists
 
 | Script Name         | Description   | 
 | -------------       | ------------- | 
-| [ShowLastPhotoMap] [] | Script to grab a photo's location and display it |
-| [getColor] []      | Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette |
-| [Diagonal Line] [] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
+| [ShowLastPhotoMap][] | Script to grab a photo's location and display it |
+| [getColor][]      | Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette |
+| [Diagonal Line][] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
 | [easy_paint][]      | Simple canvas/sketchpad script |
-| [post_flickr_instagram] []      | Post to Flickr then squarify photo without cropping and post to Instagram in one step |
+| [post_flickr_instagram][]      | Post to Flickr then squarify photo without cropping and post to Instagram in one step |
 | [squarify][]      | Squarify any photo (landscape or portrait) - adds white space instead of cropping to make square and then open up Instagram to post |
 | [ImageFrame][]      | Remote-controllable digital image frame with built-in web server |
 
@@ -28,8 +28,8 @@ Custom Modules
 
 | Script Name        | Description   | 
 | -------------      | ------------- | 
-| [Tilting Color] [] | A gravity hack that uses Pythonista's `motion.get_attitude()` or `scene.gravity()` methods to change screen colors when the user tilts their device |
-| [Turtle for Pythonista] []      | Basic Turtle graphics module for Pythonista |
+| [Tilting Color][] | A gravity hack that uses Pythonista's `motion.get_attitude()` or `scene.gravity()` methods to change screen colors when the user tilts their device |
+| [Turtle for Pythonista][]      | Basic Turtle graphics module for Pythonista |
 
 
 [photo_text]: https://github.com/humberry/photo_text
