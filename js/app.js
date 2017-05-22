@@ -33,6 +33,9 @@ if (params == 0) {
     } else if (params['p'] == 'fun') {
         $('.funBtn').addClass('active');
         sqlString = "select B,C,D,E where E = 'Fun' order by B asc";
+    } else if (params['p'] == 'cloud') {
+        $('.cloudBtn').addClass('active');
+        sqlString = "select B,C,D,E where E = 'Cloud Services' order by B asc";
     } else if (params['p'] == 'graphics') {
         $('.graphicsBtn').addClass('active');
         sqlString = "select B,C,D,E where E = 'Graphics and Imaging' order by B asc";
