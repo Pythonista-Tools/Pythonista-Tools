@@ -12,6 +12,7 @@ GitHub Repos
 | [Navigation View Tutorial] | A Navigation View Tutorial/Example |
 | [mediawiki_ui] | A Pythonista MediaWiki user interface module |
 | [extend] | Enable subclassing of UI components (almost) |
+| [composite] | Supports stacking and adding functionality to UI Views via simple mix-in classes |
 
 GitHub Gists
 ------------
@@ -49,3 +50,4 @@ Custom Modules
 [Navigation View Tutorial]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/UI/Navigation%20View%20Tutorial
 [mediawiki_ui]: https://github.com/disorientedperson/mediawiki_ui
 [extend]: https://github.com/mikaelho/extend
+[composite]: https://github.com/mikaelho/pythonista-composite
