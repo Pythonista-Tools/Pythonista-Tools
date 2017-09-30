@@ -6,7 +6,8 @@ GitHub Repos
 | Script Name   | Description   |
 | ------------- | ------------- |
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
-| [DropboxSync][]      | Dropbox File Synchronization |
+| [Synchronator][] | Dropbox file synchronization - Dropbox V2 API |
+| [DropboxSync][]      | Dropbox File Synchronization - Dropbox V1 API - deprecated |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu][] | Pythonista editor sidebar utilities |
@@ -118,3 +119,4 @@ GitHub Gists
 [CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
 [Dropbox File Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
+[Synchronator]: https://github.com/markhamilton1/Synchronator
