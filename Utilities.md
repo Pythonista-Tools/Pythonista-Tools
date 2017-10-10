@@ -45,6 +45,7 @@ GitHub Repos
 | [CleverSFTPClient][] | Very practical Pythonista SFTPClient application |
 | [Dropbox File Picker][] | A script to enable Pythonista to download files from Dropbox |
 | [Game Engine][] | A Game Engine WIP |
+| [PyDoc][] | A docset browser written for Pythonista  |
 
 
 GitHub Gists
@@ -120,3 +121,4 @@ GitHub Gists
 [Dropbox File Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
 [Synchronator]: https://github.com/markhamilton1/Synchronator
+[PyDoc]: https://github.com/shaun-h/PyDoc
