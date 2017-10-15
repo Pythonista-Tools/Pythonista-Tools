@@ -53,7 +53,8 @@ GitHub Gists
 
 | Script Name        | Description   |
 | -------------      | ------------- |
-| [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista |
+| [Dropbox File Picker V2][]      | Script to import a file from Dropbox into Pythonista - Dropbox V2 API |
+| [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista - Dropbox V1 API - deprecated |
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
 | [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
@@ -69,6 +70,7 @@ GitHub Gists
 
 [blok]: https://github.com/solarfl4re/blok
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
+[Dropbox File Picker V2]: https://gist.github.com/encela95dus/67fd65aec0c25336ac8e70153ebcf7eb
 [DropboxSync]: https://github.com/dhutchison/PythonistaScripts
 [ed]: https://github.com/jsbain/ed
 [editmenu]: https://github.com/jsbain/editmenu
