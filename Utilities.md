@@ -43,7 +43,7 @@ GitHub Repos
 | [Password Generator] | A simple password generator that lets the user copy the generated password to the clipboard with a single tap |
 | [PythonistaHexEditor][] | A simple hex editor for Pythonista |
 | [CleverSFTPClient][] | Very practical Pythonista SFTPClient application |
-| [Dropbox File Picker][] | A script to enable Pythonista to download files from Dropbox |
+| [Pythonista Dropbox Picker][] | A script to enable Pythonista to download files from Dropbox |
 | [Game Engine][] | A Game Engine WIP |
 | [PyDoc][] | A docset browser written for Pythonista  |
 
@@ -120,7 +120,7 @@ GitHub Gists
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
 [Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py
 [CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
-[Dropbox File Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
+[Pythonista Dropbox Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
 [Synchronator]: https://github.com/markhamilton1/Synchronator
 [PyDoc]: https://github.com/shaun-h/PyDoc
