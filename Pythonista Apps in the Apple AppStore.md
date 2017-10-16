@@ -20,6 +20,7 @@ Paid Pythonista made apps
 | -------------      | ------------- |
 | [Servr][] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch  |
 | [Hotspotsystem vouchers][] | RESTful API client app for Hotspotsystem.com |
+| [QNH][] | Give essential informations to pilots, like the weather report and airport information|
 
 
 [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
@@ -31,3 +32,4 @@ Paid Pythonista made apps
 [Third Law]: https://itunes.apple.com/app/third-law/id1054853024?mt=8
 [Black & White]: https://appsto.re/gb/ERkSbb.i
 [Hotspotsystem vouchers]: https://itunes.apple.com/ca/app/hotspotsystem-vouchers/id1180444770?mt=8
+[QNH]: https://itunes.apple.com/us/app/qnh/id1218922617?l=fr&ls=1&mt=8
