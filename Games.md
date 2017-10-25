@@ -15,7 +15,7 @@ GitHub Repos
 | [2048-for-Pythonista][] | A 2048 game for the Pythonista beta 1.6  |
 | [Black and White][] | A simple grid-based game |
 | [Caves of Soukka][] | An original finger-tracing blind racing game |
-| [Neuron I/O][] | A game of neuronal activity recordings in the brain |
+| [Neuron IO][] | A game of neuronal activity recordings in the brain |
 
 GitHub Gists
 ------------
@@ -68,4 +68,4 @@ Custom Modules
 [2048-for-Pythonista]: https://github.com/SebastianJarsve/2048-for-Pythonista
 [Black and White]: https://github.com/chriswilson1982/black-white
 [Caves of Soukka]: https://github.com/mikaelho/caves
-[Neuron I/O]: https://github.com/yueqiw/ophys-game-ios
+[Neuron IO]: https://github.com/yueqiw/ophys-game-ios
