@@ -5,7 +5,8 @@ GitHub Repos
 
 | Script Name   | Description   | 
 | ------------- | ------------- | 
-| [GitHubGet][] | Quick script to download and unzip a repo from github |
+| [GitHubGet][] | Quick script to download and unzip a repo from GitHub |
+| [iGotIt][]    | Git based on [GitHubGet][], but newer |
 | [gitrepo][]   | Small Pythonista utility to easily download repos and releases from GitHub |
 | [gitview][]| More fully featured github client, allows local repo management, push, clone, pull |
 | [gitsynchista][] | Pythonista tool to synchronize local files with a Github repository hosted on a WebDav server |
@@ -30,3 +31,4 @@ GitHub Gists
 [gitsynchista]: https://github.com/marcus67/gitsynchista
 [Cheatsheet]: https://github.com/humberry/Github-Cheatsheet
 [Pythonista and Working Copy]: https://github.com/cclauss/Pythonista-and-Working-Copy
+[iGotIt]: https://github.com/GoDzM4TT3O/iGotIt
