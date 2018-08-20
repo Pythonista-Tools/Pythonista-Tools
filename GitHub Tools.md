@@ -12,6 +12,7 @@ GitHub Repos
 | [gitsynchista][] | Pythonista tool to synchronize local files with a Github repository hosted on a WebDav server |
 | [Cheatsheet][] | Github-Cheatsheet for stash and CreateRepo.py (simple way of creating a remote repo) |
 | [Pythonista and Working Copy][] | Allow Pythonista to download a git file, folder, or repo from the Working Copy app |
+| [iRepo][] | A simple GitHub Repo viewer |
 
 GitHub Gists
 ------------
@@ -32,3 +33,4 @@ GitHub Gists
 [Cheatsheet]: https://github.com/humberry/Github-Cheatsheet
 [Pythonista and Working Copy]: https://github.com/cclauss/Pythonista-and-Working-Copy
 [iGotIt]: https://github.com/GoDzM4TT3O/iGotIt
+[iRepo]: https://github.com/GoDzM4TT3O/iRepo
