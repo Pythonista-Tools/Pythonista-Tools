@@ -47,8 +47,8 @@ GitHub Repos
 | [Game Engine][] | A Game Engine WIP |
 | [PyDoc][] | A docset browser written for Pythonista  |
 | [iEditor][] | Simple script that creates a new file, alongside its extension (provided by the user), and automatically creates a template for the user (example: html)  |
-| [iServer][] | A script made for Pythonista 3 by GoDzM4TT3O on 18 August 2018. It starts a server (by default) on port 80  |
-
+| [iServer][] | Starts a server (by default) on port 80  |
+| [iHashIt][] | Hash a string from user-input  |
 
 GitHub Gists
 ------------
@@ -128,3 +128,4 @@ GitHub Gists
 [PyDoc]: https://github.com/shaun-h/PyDoc
 [iEditor]: https://github.com/GoDzM4TT3O/iEditor
 [iServer]: https://github.com/GoDzM4TT3O/iServer/
+[iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
