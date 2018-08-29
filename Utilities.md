@@ -49,6 +49,7 @@ GitHub Repos
 | [iEditor][] | Simple script that creates a new file, alongside its extension (provided by the user), and automatically creates a template for the user (example: html)  |
 | [iServer][] | Starts a server (by default) on port 80  |
 | [iHashIt][] | Hash a string from user-input  |
+| [iLiveStats][] | Check if a user is live on YouTube and print details  |
 
 GitHub Gists
 ------------
@@ -129,3 +130,4 @@ GitHub Gists
 [iEditor]: https://github.com/GoDzM4TT3O/iEditor
 [iServer]: https://github.com/GoDzM4TT3O/iServer/
 [iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
+[iLiveStats]: https://github.com/GoDzM4TT3O/iLiveStats
