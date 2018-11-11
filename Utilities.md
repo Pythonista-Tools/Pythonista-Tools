@@ -50,6 +50,7 @@ GitHub Repos
 | [iServer][] | Starts a server (by default) on port 80  |
 | [iHashIt][] | Hash a string from user-input  |
 | [iLiveStats][] | Check if a user is live on YouTube and print details  |
+| [calendarapp][] | Calendar - show/edit events incl. recurrences/alarms |
 
 GitHub Gists
 ------------
@@ -131,3 +132,4 @@ GitHub Gists
 [iServer]: https://github.com/GoDzM4TT3O/iServer/
 [iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
 [iLiveStats]: https://github.com/GoDzM4TT3O/iLiveStats
+[calendarapp]: https://github.com/humberry/Calendar
