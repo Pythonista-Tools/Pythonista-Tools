@@ -5,6 +5,7 @@ Free Pythonista made apps
 -------------------------
 | App Name           | Description   | 
 | -------------      | ------------- | 
+| [aPlan sp][]       | aPlan sp is a magazine flatplanning tool written in Pythonista 3 on and for iPad. |
 | [Wormy Drawing][]| Wormy Drawing makes it super easy for anyone to create colourful pictures |
 | [Velocity Run][] | Velocity Run is an original game where you tilt your device to move a red square around on the screen |
 | [Boxscape][]     | A fast paced game of skillful reaction and awesome bonus characters |
@@ -24,6 +25,7 @@ Paid Pythonista made apps
 
 
 [1]: https://github.com/Pythonista-Tools/Pythonista-Tools/issues/new
+[aPlan sp]: https://itunes.apple.com/gb/app/aplan-sp/id1453002135?mt=8
 [Wormy Drawing]: https://itunes.apple.com/gb/app/wormy-drawing/id882326367?mt=8
 [Stacked - Arcade Game]: https://itunes.apple.com/us/app/stacked-arcade-game/id882344011?mt=8
 [Velocity Run]: https://itunes.apple.com/us/app/velocity-run/id642044324?mt=8
