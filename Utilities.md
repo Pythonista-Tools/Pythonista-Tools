@@ -51,6 +51,7 @@ GitHub Repos
 | [iHashIt][] | Hash a string from user-input  |
 | [iLiveStats][] | Check if a user is live on YouTube and print details  |
 | [calendarapp][] | Calendar - show/edit events incl. recurrences/alarms |
+| [pythonista-stubs][] | Typed Python interface stubs for editing Pythonista code on the desktop |
 
 GitHub Gists
 ------------
@@ -132,4 +133,5 @@ GitHub Gists
 [iServer]: https://github.com/GoDzM4TT3O/iServer/
 [iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
 [iLiveStats]: https://github.com/GoDzM4TT3O/iLiveStats
-[calendarapp]: https://github.com/humberry/Calendar
+[calenzdarapp]: https://github.com/humberry/Calendar
+[pythonista-stubs]: https://github.com/hbmartin/pythonista-stubs
