@@ -133,5 +133,5 @@ GitHub Gists
 [iServer]: https://github.com/GoDzM4TT3O/iServer/
 [iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
 [iLiveStats]: https://github.com/GoDzM4TT3O/iLiveStats
-[calenzdarapp]: https://github.com/humberry/Calendar
+[calendarapp]: https://github.com/humberry/Calendar
 [pythonista-stubs]: https://github.com/hbmartin/pythonista-stubs
