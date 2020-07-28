@@ -53,6 +53,7 @@ GitHub Repos
 | [calendarapp][] | Calendar - show/edit events incl. recurrences/alarms |
 | [pythonista-stubs][] | Typed Python interface stubs for editing Pythonista code on the desktop |
 | [TiTraPy][] | TimeTracker to track minutes and hours spent in activities - is already usable, but develops|
+| [MyVocabTrainer][] | Vocabulary trainer - automatic switching to a second keyboard layout is possible (Russian/Cyrillic example is included) |
 
 
 GitHub Gists
@@ -138,3 +139,4 @@ GitHub Gists
 [calendarapp]: https://github.com/humberry/Calendar
 [pythonista-stubs]: https://github.com/hbmartin/pythonista-stubs
 [TiTraPy]: https://github.com/ArduFox/TiTraPy
+[MyVocabTrainer]: https://github.com/humberry/MyVocabTrainer
