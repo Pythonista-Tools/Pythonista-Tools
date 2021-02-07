@@ -66,7 +66,7 @@ Custom Modules
 [rps]: https://github.com/tjferry14/Pythonista-UI-Games
 [PocketYoukai]: https://github.com/MCS-Kaijin/PocketYoukai
 [2048-for-Pythonista]: https://github.com/SebastianJarsve/2048-for-Pythonista
-[Black and White]: https://github.com/chriswilson1982/black-white
+[Black and White]: https://github.com/chriswilson1982/black-and-white
 [Caves of Soukka]: https://github.com/mikaelho/caves
 [Neuron IO]: https://github.com/yueqiw/ophys-game-ios
 [Texas Hold'em Poker MultiPlayer]: https://github.com/mattiaslamotte/RetroPoker
