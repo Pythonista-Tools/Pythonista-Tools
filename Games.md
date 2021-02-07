@@ -13,7 +13,7 @@ GitHub Repos
 | [rps][] | Rock, paper, scissors game using UI |
 | [PocketYoukai][] | A minimalistic, text-based RPG using Pythonista's Scene module |
 | [2048-for-Pythonista][] | A 2048 game for the Pythonista beta 1.6  |
-| [Black and White][] | A simple grid-based game |
+| [Black & White][] | A colourful grid-based puzzle game |
 | [Caves of Soukka][] | An original finger-tracing blind racing game |
 | [Neuron IO][] | A game of neuronal activity recordings in the brain |
 
