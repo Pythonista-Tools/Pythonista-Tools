@@ -8,7 +8,6 @@ GitHub Repos
 | Script Name   | Description   | 
 | ------------- | ------------- | 
 | [OpenGL for Embedded Systems] | OpenGLES bindings for the latest Pythonista beta |
-| [x-callback-url support] | Use [x-callback-urls](http://x-callback-url.com) with Pythonista |
 | [Pythonista-Objective-C-Runtime-Library] | This library will provide what will hopefully be an easier to use interface between Python and objc_util in Pythonista 3 |
 | [objc_tools] | A bunch of script for interacting with ObjC items in Pythonista * |
 
@@ -25,7 +24,6 @@ GitHub Gists
 *Note: this library will change.
 
 [OpenGL for Embedded Systems]: https://github.com/Cethric/OpenGLES-Pythonista
-[x-callback-url support]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/x-callback-url/x_callback_url.py
 [touchid]: https://gist.github.com/omz/66a763a9db15dc847690
 [Theme Editor]: https://gist.github.com/omz/6c168b0c36ca3b23cacc
 [attach mail]: https://gist.github.com/jsbain/f82be8d8840f86b387a4
