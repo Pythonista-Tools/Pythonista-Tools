@@ -6,9 +6,7 @@ GitHub Repos
 | Script Name   | Description   |
 | ------------- | ------------- |
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
-| [Synchronator][] | Dropbox file synchronization - Dropbox V2 API |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
-| [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu][] | Pythonista editor sidebar utilities |
 | [Snakeyes][] | Simple code-completion system for Pythonista |
 | [PythonistaRSSReader][] | Super simple RSS reader for use with Pythonista |
@@ -20,14 +18,11 @@ GitHub Repos
 | [Pythonista Webbrowser][]   | Simple Web Browser using the UI Module |
 | [PhoneManager][]| UI FileManager (not only for Phones) |
 | [ed][]| Codemirror based editor, capable of editing many file types |
-| [youtube-dl][]| Download videos from [YouTube][] or other video platforms |
-| [youtube-dl downloader] | Downloads and installs youtube-dl |
 | [SMBclient][]| UI tool to access Samba/Windows-Shares |
 | [PhoneSMB][]| UI tool to access Samba/Windows-Shares from your Phone |
 | [blok][] |  Static website generator for Pythonista + Editor |
 | [HTMLEditor Pythonista][] |  A basic html editor for Pythonista |
 | [mail-me-mah-code][] | Makes a .zip file of your project and emails it to your specified recipient |
-| [Post-to-Pythonista-Forum][] | Script for posting to the Pythonista forums (1.0) from within Pythonista itself |
 | [Task-List][]      | Create, read, update, and delete task lists |
 | [pythonista-sqlite3-browser][]      | A sqlite3 browser written for Pythonista |
 | [maze-cv][] | A program for scanning and solving mazes |
@@ -66,7 +61,6 @@ GitHub Gists
 | [ShortURL][]  |  URL shortener using is.gd      |
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation][] | Add this to your action menu and quickly indent multiple lines of code|
-| [Module grabber][] | Get the sourcecode of a non-builtin module |
 
 [blok]: https://github.com/solarfl4re/blok
 [Dropbox File Picker V2]: https://gist.github.com/encela95dus/67fd65aec0c25336ac8e70153ebcf7eb
@@ -85,10 +79,8 @@ GitHub Gists
 [mail-me-mah-code]: https://www.github.com/MCS-Kaijin/mail-me-mah-code
 [MarkdownPDF]: https://gist.github.com/SpotlightKid/0efb4d07f28af1c8fc1b
 [maze-cv]: https://github.com/The-Penultimate-Defenestrator/maze-cv
-[Module grabber]: https://gist.github.com/671620616/0728664ccf51b9b2bcce
 [PhoneManager]: https://github.com/humberry/PhoneManager
 [PhoneSMB]: https://github.com/humberry/PhoneSMB
-[Post-to-Pythonista-Forum]: https://github.com/danrcook/Post-to-Pythonista-Forum
 [Pythonista Webbrowser]: https://github.com/SebastianJarsve/Pythonista-Webbrowser
 [pythonista-sqlite3-browser]: https://github.com/shaun-h/pythonista-sqlite3-browser
 [PythonistaBackup]: https://gist.github.com/omz/05f096319c23c4addba9
@@ -108,17 +100,14 @@ GitHub Gists
 [watch_pythonista_forum]: https://gist.github.com/cclauss/8794104
 [WebIDE]: https://github.com/Ivoah/WebIDE
 [YouTube]: http://youtube.com
-[youtube-dl]: https://github.com/HyShai/youtube-dl
 [youtube-dl downloader]: https://github.com/shaun-h/pythonista-youtubedl-downloader
 [Unzipper]: https://github.com/humberry/Unzipper
-[ImportObjCClass]: https://github.com/lukaskollmer/pythonista-scripts/blob/master/ImportObjcClass/ImportObjCClass.py
 [s3sync]: https://github.com/khilnani/s3sync.py
 [MLBPlayista]: https://github.com/HyShai/MLBPlayista
 [Password Generator]: https://github.com/ShunSakurai/password_generator/blob/master/password_iphone.py
 [CleverSFTPClient]: https://github.com/nekotaroneko/CleverSFTPClient
 [Pythonista Dropbox Picker]: https://github.com/zmitchell/Pythonista-Dropbox-Picker
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
-[Synchronator]: https://github.com/markhamilton1/Synchronator
 [PyDoc]: https://github.com/shaun-h/PyDoc
 [calendarapp]: https://github.com/humberry/Calendar
 [pythonista-stubs]: https://github.com/hbmartin/pythonista-stubs
