@@ -14,13 +14,9 @@ GitHub Repos
 | [zap_carriage_returns][ccc] | Make those Windows text files more friendly |
 | [tweetme][tjferry14] | Allows you to tweet whatever you type into a dialog |
 | [count_text][tjferry14] | Counts the amount of letters or numbers in text you ask it to |
-| [iBright][] | Change the brightness of your device |
-| [iSay][] | Complete TextToSpeech |
 
 GitHub Gists
 ------------
 
 [ccc]: https://github.com/cclauss/Ten-lines-or-less
 [tjferry14]: https://github.com/tjferry14/My-Pythonista-Projects
-[iBright]: https://github.com/GoDzM4TT3O/iBright
-[iSay]: https://github.com/GoDzM4TT3O/iSay
