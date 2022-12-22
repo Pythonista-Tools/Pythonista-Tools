@@ -69,4 +69,3 @@ Custom Modules
 [Black & White]: https://github.com/chriswilson1982/black-white
 [Caves of Soukka]: https://github.com/mikaelho/caves
 [Neuron IO]: https://github.com/yueqiw/ophys-game-ios
-[Texas Hold'em Poker MultiPlayer]: https://github.com/mattiaslamotte/RetroPoker
