@@ -45,10 +45,6 @@ GitHub Repos
 | [Pythonista Dropbox Picker][] | A script to enable Pythonista to download files from Dropbox |
 | [Game Engine][] | A Game Engine WIP |
 | [PyDoc][] | A docset browser written for Pythonista  |
-| [iEditor][] | Simple script that creates a new file, alongside its extension (provided by the user), and automatically creates a template for the user (example: html)  |
-| [iServer][] | Starts a server (by default) on port 80  |
-| [iHashIt][] | Hash a string from user-input  |
-| [iLiveStats][] | Check if a user is live on YouTube and print details  |
 | [calendarapp][] | Calendar - show/edit events incl. recurrences/alarms |
 | [pythonista-stubs][] | Typed Python interface stubs for editing Pythonista code on the desktop |
 | [TiTraPy][] | TimeTracker to track minutes and hours spent in activities - is already usable, but develops|
@@ -61,9 +57,7 @@ GitHub Gists
 | Script Name        | Description   |
 | -------------      | ------------- |
 | [Dropbox File Picker V2][]      | Script to import a file from Dropbox into Pythonista - Dropbox V2 API |
-| [Dropbox File Picker][]      | Script to import a file from Dropbox into Pythonista - Dropbox V1 API - deprecated |
 | [PythonistaBackup][] | Creates a zip archive of your Pythonista files and serves them via HTTP in your LAN. |
-| [filedownloader][] | Uses the requests module to download files and the ui module to show a progress bar |
 | [FontInstaller][] | Script installs a custom TTF font on iOS (system-wide) |
 | [ShortcutGenerator][] | Script adds a "Webclip" shortcut to your homescreen for another script |
 | [GoogleSearch][] | Searches Google and copies the first result to the clipboard as a Markdown link in the form `[title]` `(url)`. |
@@ -72,19 +66,15 @@ GitHub Gists
 | [ShortURL][]  |  URL shortener using is.gd      |
 | [MarkdownPDF][] | Converts Markdown documents to PDF directly on your iOS device |
 | [indentation][] | Add this to your action menu and quickly indent multiple lines of code|
-| [fmath][] | Advanced functional math module      |
 | [Module grabber][] | Get the sourcecode of a non-builtin module |
 
 [blok]: https://github.com/solarfl4re/blok
-[Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
 [Dropbox File Picker V2]: https://gist.github.com/encela95dus/67fd65aec0c25336ac8e70153ebcf7eb
 [ed]: https://github.com/jsbain/ed
 [editmenu]: https://github.com/jsbain/editmenu
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
 [FontInstaller]: https://gist.github.com/omz/9901460
-[filedownloader]: https://gist.github.com/ejmsoftware/89edf288a15fde45682a
 [filenav]: https://github.com/dgelessus/filenav
-[fmath]: https://gist.github.com/671620616/6ce321b939dfc23797a3
 [glassboard2json]: https://gist.github.com/omz/6674820
 [GoogleSearch]: https://gist.github.com/omz/3908817
 [hexviewer]: https://github.com/humberry/hexviewer
@@ -130,10 +120,6 @@ GitHub Gists
 [Game Engine]: https://github.com/TutorialDoctor/Pythonista-Projects/tree/master/Projects/Games/Game%20Engine
 [Synchronator]: https://github.com/markhamilton1/Synchronator
 [PyDoc]: https://github.com/shaun-h/PyDoc
-[iEditor]: https://github.com/GoDzM4TT3O/iEditor
-[iServer]: https://github.com/GoDzM4TT3O/iServer/
-[iHashIt]: https://github.com/GoDzM4TT3O/iHashIt
-[iLiveStats]: https://github.com/GoDzM4TT3O/iLiveStats
 [calendarapp]: https://github.com/humberry/Calendar
 [pythonista-stubs]: https://github.com/hbmartin/pythonista-stubs
 [TiTraPy]: https://github.com/ArduFox/TiTraPy
