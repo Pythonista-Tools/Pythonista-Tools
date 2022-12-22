@@ -7,7 +7,6 @@ GitHub Repos
 | ------------- | ------------- |
 | [StaSh][]     | Shell, with ui, thread support, tab completion, etc. |
 | [Synchronator][] | Dropbox file synchronization - Dropbox V2 API |
-| [DropboxSync][]      | Dropbox File Synchronization - Dropbox V1 API - deprecated |
 | [Shellista][] | Another iOS Shell Written for Pythonista |
 | [ImportObjCClass][] | Very easily import ObjC classes and check for typos |
 | [editmenu][] | Pythonista editor sidebar utilities |
@@ -79,7 +78,6 @@ GitHub Gists
 [blok]: https://github.com/solarfl4re/blok
 [Dropbox File Picker]: https://gist.github.com/omz/fb180c58c94526e2c40b
 [Dropbox File Picker V2]: https://gist.github.com/encela95dus/67fd65aec0c25336ac8e70153ebcf7eb
-[DropboxSync]: https://github.com/dhutchison/PythonistaScripts
 [ed]: https://github.com/jsbain/ed
 [editmenu]: https://github.com/jsbain/editmenu
 [EsolangsInterpreter]: https://www.github.com/MCS-Kaijin/EsolangsInterpreter
