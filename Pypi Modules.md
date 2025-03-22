@@ -4,9 +4,9 @@ Tools and scripts that facilitate downloading and importing pure Python modules 
 
 GitHub Repos
 ------------
-	
-| Script Name                        | Description                | 
-| ---------------------------------- | -------------------------- | 
+
+| Script Name                        | Description                |
+| ---------------------------------- | -------------------------- |
 | [Networkx Installer][Vik2015]      | [Networkx]                 |
 | [NLTK Installer][Vik2015]          | [Natural Language ToolKit] |
 | [Pychievements Installer][Vik2015] | [Pychievements]            |
@@ -15,8 +15,8 @@ GitHub Repos
 GitHub Gists
 ------------
 
-| Script Name    | Description   | 
-| -------------- | ------------- | 
+| Script Name    | Description   |
+| -------------- | ------------- |
 | [pipista][]    | Pip module (for installing other modules) for Pythonista |
 | [wagenheber][] | Install any Python wheel from PyPI |
 

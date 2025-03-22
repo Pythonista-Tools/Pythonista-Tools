@@ -3,10 +3,10 @@
 GitHub Repos
 ------------
 
-| Script Name        | Description   | 
-| ------------------ | ------------- | 
+| Script Name        | Description   |
+| ------------------ | ------------- |
 | [Minesweeper][]   | Minesweeper game for Pythonista |
-|                    |  [Minesweeper with additional features][] | 
+|                    |  [Minesweeper with additional features][] |
 | [Cloud Jump 2][]  | Additional features from the original [Cloud Jump][] |
 | [learn-math][] | A game to learn basic math skills |
 | [Tic Tac Toe][] | Tic tac toe game using UI |
@@ -20,10 +20,10 @@ GitHub Repos
 GitHub Gists
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [Air Hockey][]      | Air Hockey game (iPad and iPhone) |
-| [Cloud Jump][]      | Doodle Jump style game   | 
+| [Cloud Jump][]      | Doodle Jump style game   |
 | [Times Tables Torture][] | Math Challenge game  |
 | [Jumpy Octopus][] | Flappy Bird style game  |
 | [Space Shooter][] | Space Shooter style game  |
@@ -39,8 +39,8 @@ GitHub Gists
 Custom Modules
 ------------
 
-| Script Name      | Description | 
-| ---------------- | ----------- | 
+| Script Name      | Description |
+| ---------------- | ----------- |
 | [High-Scores][] | Module to save players' high score in games |
 
 

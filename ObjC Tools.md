@@ -5,8 +5,8 @@ Tools created with the ctypes and/or objc_util modules.  __Warning:__ These tool
 GitHub Repos
 ------------
 
-| Script Name   | Description   | 
-| ------------- | ------------- | 
+| Script Name   | Description   |
+| ------------- | ------------- |
 | [OpenGL for Embedded Systems] | OpenGLES bindings for the latest Pythonista beta |
 | [Pythonista-Objective-C-Runtime-Library] | This library will provide what will hopefully be an easier to use interface between Python and objc_util in Pythonista 3 |
 | [objc_tools] | A bunch of script for interacting with ObjC items in Pythonista * |
@@ -15,8 +15,8 @@ GitHub Repos
 GitHub Gists
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [touchid][]    | Perform local authentications using Touch ID |
 | [Theme Editor] | Create and edit your themes for the Editor   |
 | [Attach Mail] | Open a mail composer window and attach a file |
