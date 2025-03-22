@@ -3,7 +3,7 @@
 GitHub Repos
 ------------
 
-| Script Name   | Description   | 
+| Script Name   | Description   |
 | ------------- | ------------- |
 | [StaSH][]     | Shell Like an Expert in Pythonista |
 | [GitHubGet][] | Quick script to download and unzip a repo from GitHub |
@@ -16,8 +16,8 @@ GitHub Repos
 GitHub Gists
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [gistcheck][]  |  Download or upload gists via bookmarklet and action menu |
 | [github_download][] | Github file viewer / general URL download script for Pythonista |
 

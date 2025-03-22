@@ -3,8 +3,8 @@
 GitHub Repos
 ------------
 
-| Script Name               | Description | 
-| ------------------------- | ----------- | 
+| Script Name               | Description |
+| ------------------------- | ----------- |
 | [photo_text][]            | Script to add one line of text to a photo |
 | [Pythonista Pixel Editor][] | A simple pixel art editor for Pythonista |
 | [Image2ASCII][]           | A script for converting images to ASCII art  |
@@ -13,8 +13,8 @@ GitHub Repos
 GitHub Gists
 ------------
 
-| Script Name         | Description   | 
-| -------------       | ------------- | 
+| Script Name         | Description   |
+| -------------       | ------------- |
 | [ShowLastPhotoMap][] | Script to grab a photo's location and display it |
 | [getColor][]      | Creates a dict of 752 Pythonista `scene.Colors` from the tkinter color palette |
 | [Diagonal Line][] | Use PIL to draw an image of a diagonal line and then make a Pythonista scene.Layer to display the image |
@@ -24,8 +24,8 @@ GitHub Gists
 Custom Modules
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [Tilting Color][] | A gravity hack that uses Pythonista's `motion.get_attitude()` or `scene.gravity()` methods to change screen colors when the user tilts their device |
 | [Turtle for Pythonista][]      | Basic Turtle graphics module for Pythonista |
 

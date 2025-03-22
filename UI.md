@@ -3,7 +3,7 @@
 GitHub Repos
 ------------
 
-| Script Name        | Description   | 
+| Script Name        | Description   |
 | -------------      | ------------- |
 | [PackUI]           | Package a .py script and its .pyui file into a self-extracting bundle |
 | [ui-tutorial][]    | UI Tutorial gives you a running start in using the ui module |
@@ -16,8 +16,8 @@ GitHub Repos
 
 GitHub Gists
 ------------
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [Nav view example][]     | An example on how to use the nav view |
 | [proplistener][]     | Observe changes in ui properties, and take action|
 | [zoomview][]     | Pinch zoomable window example  |
@@ -29,8 +29,8 @@ GitHub Gists
 Custom Modules
 ------------
 
-| Script Name        | Description   | 
-| -------------      | ------------- | 
+| Script Name        | Description   |
+| -------------      | ------------- |
 | [Hydrogen][]      | A lightweight GUI framework for Pythonista that requires [HydrogenLayouts][] and [HydrogenDemo][]|
 
 [PackUI]: https://github.com/dgelessus/pythonista-scripts/blob/master/PackUI.py

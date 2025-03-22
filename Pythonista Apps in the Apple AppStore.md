@@ -3,8 +3,8 @@ Please, [Open a new issue][1] with the name and url of your App Store app to get
 
 Free Pythonista made apps
 -------------------------
-| App Name           | Description   | 
-| -------------      | ------------- | 
+| App Name           | Description   |
+| -------------      | ------------- |
 | [aPlan sp][]       | aPlan sp is a magazine flatplanning tool written in Pythonista 3 on and for iPad. |
 | [Wormy Drawing][]| Wormy Drawing makes it super easy for anyone to create colourful pictures |
 | [Velocity Run][] | Velocity Run is an original game where you tilt your device to move a red square around on the screen |
@@ -17,7 +17,7 @@ Free Pythonista made apps
 Paid Pythonista made apps
 -------------------------
 
-| App Name           | Description   | 
+| App Name           | Description   |
 | -------------      | ------------- |
 | [Servr][] | Servr is the simplest way to run a multipurpose web server from your iPhone or iPod touch |
 | [Hotspotsystem vouchers][] | RESTful API client app for Hotspotsystem.com |
