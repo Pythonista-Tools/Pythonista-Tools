@@ -1,5 +1,6 @@
 Pythonista Tools
 ================
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/Pythonista-Tools/Pythonista-Tools/main.svg)](https://results.pre-commit.ci/latest/github/Pythonista-Tools/Pythonista-Tools/main)
 
 Our goal is to become a one stop shop for looking for [Pythonista](http://omz-software.com/pythonista/) scripts. No more scouring through GitHub Repos and Gists to find scripts, they're all here.
 
