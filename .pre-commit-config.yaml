@@ -4,6 +4,9 @@
 # `pipx install pre-commit` or `brew install pre-commit`
 # Then in the project root directory run `pre-commit install`
 
+ci:
+  autoupdate_schedule: monthly
+
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v6.0.0
@@ -53,7 +56,7 @@ repos:
           - tomli
 
   - repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.14.13
+    rev: v0.14.14
     hooks:
       - id: ruff
       - id: ruff-format
